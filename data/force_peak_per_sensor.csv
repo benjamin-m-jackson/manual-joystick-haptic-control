@@ -1,0 +1,529 @@
+participant,expertise,controller,repeat,sensor,channel,peak_force_mN,peak_force_nav_window_mN
+P01,Expert,Manual,1,1,ch1,0,0
+P01,Expert,Manual,1,2,ch2,5.544719101,5.544719101
+P01,Expert,Manual,1,3,ch6,0,0
+P01,Expert,Manual,1,4,ch7,0,0
+P01,Expert,Manual,1,5,ch10,0,0
+P01,Expert,Manual,1,6,ch13,8.94861775,8.94861775
+P01,Expert,Manual,1,7,ch14,0,0
+P01,Expert,Manual,1,8,ch15,0,0
+P01,Expert,Manual,2,1,ch1,0,0
+P01,Expert,Manual,2,2,ch2,5.544719101,5.544719101
+P01,Expert,Manual,2,3,ch6,0,0
+P01,Expert,Manual,2,4,ch7,0,0
+P01,Expert,Manual,2,5,ch10,0,0
+P01,Expert,Manual,2,6,ch13,8.736228316,8.736228316
+P01,Expert,Manual,2,7,ch14,0,0
+P01,Expert,Manual,2,8,ch15,0,0
+P01,Expert,Haptic On,1,1,ch1,3.581119429,3.581119429
+P01,Expert,Haptic On,1,2,ch2,34.19243446,29.41781523
+P01,Expert,Haptic On,1,3,ch6,20.77229074,20.77229074
+P01,Expert,Haptic On,1,4,ch7,1.813240829,1.813240829
+P01,Expert,Haptic On,1,5,ch10,21.28751551,17.11470257
+P01,Expert,Haptic On,1,6,ch13,11.28490153,9.373396619
+P01,Expert,Haptic On,1,7,ch14,3.385101931,3.385101931
+P01,Expert,Haptic On,1,8,ch15,0,0
+P01,Expert,Haptic On,2,1,ch1,0,0
+P01,Expert,Haptic On,2,2,ch2,10.31933833,10.31933833
+P01,Expert,Haptic On,2,3,ch6,7.018255363,7.018255363
+P01,Expert,Haptic On,2,4,ch7,1.062516746,1.062516746
+P01,Expert,Haptic On,2,5,ch10,4.596263724,4.596263724
+P01,Expert,Haptic On,2,6,ch13,7.461891708,7.461891708
+P01,Expert,Haptic On,2,7,ch14,0.9504301054,0.9504301054
+P01,Expert,Haptic On,2,8,ch15,0,0
+P01,Expert,Haptic Off,1,1,ch1,2.140539351,2.140539351
+P01,Expert,Haptic Off,1,2,ch2,38.96705368,38.96705368
+P01,Expert,Haptic Off,1,3,ch6,21.50583929,21.50583929
+P01,Expert,Haptic Off,1,4,ch7,2.00092185,2.00092185
+P01,Expert,Haptic Off,1,5,ch10,24.06939081,24.06939081
+P01,Expert,Haptic Off,1,6,ch13,10.01056492,10.01056492
+P01,Expert,Haptic Off,1,7,ch14,3.53726892,3.53726892
+P01,Expert,Haptic Off,1,8,ch15,0,0
+P01,Expert,Haptic Off,2,1,ch1,0,0
+P01,Expert,Haptic Off,2,2,ch2,29.41781523,29.41781523
+P01,Expert,Haptic Off,2,3,ch6,18.57164508,18.57164508
+P01,Expert,Haptic Off,2,4,ch7,4.065413078,4.065413078
+P01,Expert,Haptic Off,2,5,ch10,18.50564022,18.50564022
+P01,Expert,Haptic Off,2,6,ch13,10.64773323,10.64773323
+P01,Expert,Haptic Off,2,7,ch14,2.928600964,2.928600964
+P01,Expert,Haptic Off,2,8,ch15,0,0
+P01,Expert,Joystick,1,1,ch1,2.50068437,2.50068437
+P01,Expert,Joystick,1,2,ch2,29.41781523,29.41781523
+P01,Expert,Joystick,1,3,ch6,17.83809653,17.83809653
+P01,Expert,Joystick,1,4,ch7,1.437878788,1.437878788
+P01,Expert,Joystick,1,5,ch10,17.81017139,17.81017139
+P01,Expert,Joystick,1,6,ch13,7.886670577,7.886670577
+P01,Expert,Joystick,1,7,ch14,2.928600964,2.928600964
+P01,Expert,Joystick,1,8,ch15,0,0
+P01,Expert,Joystick,2,1,ch1,0,0
+P01,Expert,Joystick,2,2,ch2,38.96705368,38.96705368
+P01,Expert,Joystick,2,3,ch6,8.668739608,8.668739608
+P01,Expert,Joystick,2,4,ch7,0,0
+P01,Expert,Joystick,2,5,ch10,23.37392199,23.37392199
+P01,Expert,Joystick,2,6,ch13,9.373396619,9.373396619
+P01,Expert,Joystick,2,7,ch14,1.406931073,1.406931073
+P01,Expert,Joystick,2,8,ch15,0,0
+P02,Expert,Manual,1,1,ch1,0,0
+P02,Expert,Manual,1,2,ch2,5.544719101,5.544719101
+P02,Expert,Manual,1,3,ch6,0,0
+P02,Expert,Manual,1,4,ch7,0,0
+P02,Expert,Manual,1,5,ch10,0,0
+P02,Expert,Manual,1,6,ch13,5.550386797,5.337997362
+P02,Expert,Manual,1,7,ch14,0,0
+P02,Expert,Manual,1,8,ch15,0,0
+P02,Expert,Manual,2,1,ch1,0,0
+P02,Expert,Manual,2,2,ch2,5.544719101,5.544719101
+P02,Expert,Manual,2,3,ch6,0,0
+P02,Expert,Manual,2,4,ch7,0,0
+P02,Expert,Manual,2,5,ch10,0,0
+P02,Expert,Manual,2,6,ch13,5.550386797,5.550386797
+P02,Expert,Manual,2,7,ch14,0,0
+P02,Expert,Manual,2,8,ch15,0,0
+P02,Expert,Haptic On,1,1,ch1,4.121336959,4.121336959
+P02,Expert,Haptic On,1,2,ch2,24.643196,24.643196
+P02,Expert,Haptic On,1,3,ch6,13.62019234,13.62019234
+P02,Expert,Haptic On,1,4,ch7,6.129904306,6.129904306
+P02,Expert,Haptic On,1,5,ch10,13.63735844,13.63735844
+P02,Expert,Haptic On,1,6,ch13,6.824723404,6.824723404
+P02,Expert,Haptic On,1,7,ch14,2.015599029,2.015599029
+P02,Expert,Haptic On,1,8,ch15,0,0
+P02,Expert,Haptic On,2,1,ch1,4.481481978,4.481481978
+P02,Expert,Haptic On,2,2,ch2,15.09395755,15.09395755
+P02,Expert,Haptic On,2,3,ch6,0,0
+P02,Expert,Haptic On,2,4,ch7,2.00092185,2.00092185
+P02,Expert,Haptic On,2,5,ch10,7.378139022,7.378139022
+P02,Expert,Haptic On,2,6,ch13,7.674281143,7.674281143
+P02,Expert,Haptic On,2,7,ch14,0,0
+P02,Expert,Haptic On,2,8,ch15,0,0
+P02,Expert,Haptic Off,1,1,ch1,5.561917037,5.561917037
+P02,Expert,Haptic Off,1,2,ch2,5.544719101,5.544719101
+P02,Expert,Haptic Off,1,3,ch6,5.000996841,5.000996841
+P02,Expert,Haptic Off,1,4,ch7,2.563964912,2.563964912
+P02,Expert,Haptic Off,1,5,ch10,0,0
+P02,Expert,Haptic Off,1,6,ch13,5.762776231,4.488439624
+P02,Expert,Haptic Off,1,7,ch14,0.6460961272,0.6460961272
+P02,Expert,Haptic Off,1,8,ch15,0,0
+P02,Expert,Haptic Off,2,1,ch1,4.841626998,4.841626998
+P02,Expert,Haptic Off,2,2,ch2,10.31933833,10.31933833
+P02,Expert,Haptic Off,2,3,ch6,0,0
+P02,Expert,Haptic Off,2,4,ch7,0,0
+P02,Expert,Haptic Off,2,5,ch10,4.596263724,4.596263724
+P02,Expert,Haptic Off,2,6,ch13,4.276050189,4.276050189
+P02,Expert,Haptic Off,2,7,ch14,0,0
+P02,Expert,Haptic Off,2,8,ch15,0,0
+P02,Expert,Joystick,1,1,ch1,2.50068437,2.50068437
+P02,Expert,Joystick,1,2,ch2,10.31933833,10.31933833
+P02,Expert,Joystick,1,3,ch6,3.900674011,3.900674011
+P02,Expert,Joystick,1,4,ch7,2.751645933,2.751645933
+P02,Expert,Joystick,1,5,ch10,4.596263724,4.596263724
+P02,Expert,Joystick,1,6,ch13,6.61233397,6.61233397
+P02,Expert,Joystick,1,7,ch14,0.493929138,0.493929138
+P02,Expert,Joystick,1,8,ch15,0,0
+P02,Expert,Joystick,2,1,ch1,5.201772018,5.201772018
+P02,Expert,Joystick,2,2,ch2,5.544719101,5.544719101
+P02,Expert,Joystick,2,3,ch6,0,0
+P02,Expert,Joystick,2,4,ch7,1.062516746,1.062516746
+P02,Expert,Joystick,2,5,ch10,0,0
+P02,Expert,Joystick,2,6,ch13,7.037112839,7.037112839
+P02,Expert,Joystick,2,7,ch14,0,0
+P02,Expert,Joystick,2,8,ch15,0,0
+P03,Expert,Manual,1,1,ch1,0,0
+P03,Expert,Manual,1,2,ch2,5.544719101,5.544719101
+P03,Expert,Manual,1,3,ch6,0,0
+P03,Expert,Manual,1,4,ch7,0,0
+P03,Expert,Manual,1,5,ch10,0,0
+P03,Expert,Manual,1,6,ch13,11.92206983,11.92206983
+P03,Expert,Manual,1,7,ch14,0,0
+P03,Expert,Manual,1,8,ch15,0,0
+P03,Expert,Manual,2,1,ch1,0,0
+P03,Expert,Manual,2,2,ch2,0,0
+P03,Expert,Manual,2,3,ch6,0,0
+P03,Expert,Manual,2,4,ch7,0,0
+P03,Expert,Manual,2,5,ch10,0,0
+P03,Expert,Manual,2,6,ch13,11.7096804,11.7096804
+P03,Expert,Manual,2,7,ch14,0,0
+P03,Expert,Manual,2,8,ch15,0,0
+P03,Expert,Haptic On,1,1,ch1,0,0
+P03,Expert,Haptic On,1,2,ch2,0,0
+P03,Expert,Haptic On,1,3,ch6,0,0
+P03,Expert,Haptic On,1,4,ch7,0,0
+P03,Expert,Haptic On,1,5,ch10,0,0
+P03,Expert,Haptic On,1,6,ch13,11.49729097,11.49729097
+P03,Expert,Haptic On,1,7,ch14,0,0
+P03,Expert,Haptic On,1,8,ch15,0,0
+P03,Expert,Haptic On,2,1,ch1,1.420249311,1.420249311
+P03,Expert,Haptic On,2,2,ch2,0,0
+P03,Expert,Haptic On,2,3,ch6,1.333254074,1.333254074
+P03,Expert,Haptic On,2,4,ch7,0,0
+P03,Expert,Haptic On,2,5,ch10,0,0
+P03,Expert,Haptic On,2,6,ch13,11.0725121,10.22295436
+P03,Expert,Haptic On,2,7,ch14,0.03742817071,0.03742817071
+P03,Expert,Haptic On,2,8,ch15,0,0
+P03,Expert,Haptic Off,1,1,ch1,2.86082939,2.86082939
+P03,Expert,Haptic Off,1,2,ch2,0,0
+P03,Expert,Haptic Off,1,3,ch6,0.9664797976,0
+P03,Expert,Haptic Off,1,4,ch7,0,0
+P03,Expert,Haptic Off,1,5,ch10,0,0
+P03,Expert,Haptic Off,1,6,ch13,13.62118531,13.62118531
+P03,Expert,Haptic Off,1,7,ch14,0,0
+P03,Expert,Haptic Off,1,8,ch15,0,0
+P03,Expert,Haptic Off,2,1,ch1,0,0
+P03,Expert,Haptic Off,2,2,ch2,0,0
+P03,Expert,Haptic Off,2,3,ch6,0,0
+P03,Expert,Haptic Off,2,4,ch7,0,0
+P03,Expert,Haptic Off,2,5,ch10,0,0
+P03,Expert,Haptic Off,2,6,ch13,11.28490153,10.01056492
+P03,Expert,Haptic Off,2,7,ch14,0,0
+P03,Expert,Haptic Off,2,8,ch15,0,0
+P03,Expert,Joystick,1,1,ch1,0,0
+P03,Expert,Joystick,1,2,ch2,0,0
+P03,Expert,Joystick,1,3,ch6,6.468093948,6.468093948
+P03,Expert,Joystick,1,4,ch7,0,0
+P03,Expert,Joystick,1,5,ch10,0,0
+P03,Expert,Joystick,1,6,ch13,11.0725121,11.0725121
+P03,Expert,Joystick,1,7,ch14,0.7982631163,0.7982631163
+P03,Expert,Joystick,1,8,ch15,0,0
+P03,Expert,Joystick,2,1,ch1,0,0
+P03,Expert,Joystick,2,2,ch2,0,0
+P03,Expert,Joystick,2,3,ch6,13.25341807,8.668739608
+P03,Expert,Joystick,2,4,ch7,0,0
+P03,Expert,Joystick,2,5,ch10,0,0
+P03,Expert,Joystick,2,6,ch13,12.98401701,11.0725121
+P03,Expert,Joystick,2,7,ch14,2.015599029,1.254764084
+P03,Expert,Joystick,2,8,ch15,0,0
+P04,Novice,Manual,1,1,ch1,8.443077195,8.443077195
+P04,Novice,Manual,1,2,ch2,34.19243446,34.19243446
+P04,Novice,Manual,1,3,ch6,0,0
+P04,Novice,Manual,1,4,ch7,5.566861244,5.566861244
+P04,Novice,Manual,1,5,ch10,21.28751551,19.20110904
+P04,Novice,Manual,1,6,ch13,0,0
+P04,Novice,Manual,1,7,ch14,0,0
+P04,Novice,Manual,1,8,ch15,0,0
+P04,Novice,Manual,2,1,ch1,7.542714646,6.102134567
+P04,Novice,Manual,2,2,ch2,29.41781523,24.643196
+P04,Novice,Manual,2,3,ch6,0,0
+P04,Novice,Manual,2,4,ch7,6.129904306,6.129904306
+P04,Novice,Manual,2,5,ch10,17.11470257,14.33282727
+P04,Novice,Manual,2,6,ch13,0,0
+P04,Novice,Manual,2,7,ch14,0,0
+P04,Novice,Manual,2,8,ch15,1.146649618,1.146649618
+P04,Novice,Haptic On,1,1,ch1,11.14416484,7.722787155
+P04,Novice,Haptic On,1,2,ch2,48.51629213,43.74167291
+P04,Novice,Haptic On,1,3,ch6,6.101319671,6.101319671
+P04,Novice,Haptic On,1,4,ch7,3.314688995,3.314688995
+P04,Novice,Haptic On,1,5,ch10,26.15579729,24.76485964
+P04,Novice,Haptic On,1,6,ch13,0,0
+P04,Novice,Haptic On,1,7,ch14,1.102597095,1.102597095
+P04,Novice,Haptic On,1,8,ch15,0,0
+P04,Novice,Haptic Off,1,1,ch1,14.56554253,14.56554253
+P04,Novice,Haptic Off,1,2,ch2,53.29091136,53.29091136
+P04,Novice,Haptic Off,1,3,ch6,12.33648238,12.33648238
+P04,Novice,Haptic Off,1,4,ch7,10.25888676,10.25888676
+P04,Novice,Haptic Off,1,5,ch10,30.32861023,30.32861023
+P04,Novice,Haptic Off,1,6,ch13,0,0
+P04,Novice,Haptic Off,1,7,ch14,2.015599029,2.015599029
+P04,Novice,Haptic Off,1,8,ch15,1.758525046,1.758525046
+P05,Expert,Manual,1,1,ch1,0,0
+P05,Expert,Manual,1,2,ch2,0,0
+P05,Expert,Manual,1,3,ch6,0,0
+P05,Expert,Manual,1,4,ch7,3.127007974,3.127007974
+P05,Expert,Manual,1,5,ch10,0,0
+P05,Expert,Manual,1,6,ch13,1.939766409,1.939766409
+P05,Expert,Manual,1,7,ch14,0.03742817071,0.03742817071
+P05,Expert,Manual,1,8,ch15,0,0
+P05,Expert,Manual,2,1,ch1,0,0
+P05,Expert,Manual,2,2,ch2,0,0
+P05,Expert,Manual,2,3,ch6,0,0
+P05,Expert,Manual,2,4,ch7,2.939326954,2.939326954
+P05,Expert,Manual,2,5,ch10,0,0
+P05,Expert,Manual,2,6,ch13,1.939766409,1.939766409
+P05,Expert,Manual,2,7,ch14,0,0
+P05,Expert,Manual,2,8,ch15,0,0
+P05,Expert,Haptic On,1,1,ch1,1.960466841,0
+P05,Expert,Haptic On,1,2,ch2,15.09395755,15.09395755
+P05,Expert,Haptic On,1,3,ch6,15.63745087,7.568416778
+P05,Expert,Haptic On,1,4,ch7,13.07410207,9.508162679
+P05,Expert,Haptic On,1,5,ch10,10.85548315,10.85548315
+P05,Expert,Haptic On,1,6,ch13,5.975165666,5.975165666
+P05,Expert,Haptic On,1,7,ch14,2.928600964,1.559098062
+P05,Expert,Haptic On,1,8,ch15,2.370400474,1.758525046
+P05,Expert,Haptic On,2,1,ch1,0,0
+P05,Expert,Haptic On,2,2,ch2,0,0
+P05,Expert,Haptic On,2,3,ch6,3.533899734,3.533899734
+P05,Expert,Haptic On,2,4,ch7,7.631352472,7.631352472
+P05,Expert,Haptic On,2,5,ch10,2.50985725,2.50985725
+P05,Expert,Haptic On,2,6,ch13,4.913218493,4.913218493
+P05,Expert,Haptic On,2,7,ch14,0.7982631163,0.7982631163
+P05,Expert,Haptic On,2,8,ch15,1.452587332,1.452587332
+P05,Expert,Haptic Off,1,1,ch1,0,0
+P05,Expert,Haptic Off,1,2,ch2,10.31933833,10.31933833
+P05,Expert,Haptic Off,1,3,ch6,5.917932533,5.917932533
+P05,Expert,Haptic Off,1,4,ch7,11.19729187,11.19729187
+P05,Expert,Haptic Off,1,5,ch10,8.769076671,8.769076671
+P05,Expert,Haptic Off,1,6,ch13,6.1875551,6.1875551
+P05,Expert,Haptic Off,1,7,ch14,1.254764084,1.254764084
+P05,Expert,Haptic Off,1,8,ch15,2.06446276,2.06446276
+P05,Expert,Haptic Off,2,1,ch1,0,0
+P05,Expert,Haptic Off,2,2,ch2,0,0
+P05,Expert,Haptic Off,2,3,ch6,0,0
+P05,Expert,Haptic Off,2,4,ch7,5.566861244,5.566861244
+P05,Expert,Haptic Off,2,5,ch10,0,0
+P05,Expert,Haptic Off,2,6,ch13,4.063660755,4.063660755
+P05,Expert,Haptic Off,2,7,ch14,0,0
+P05,Expert,Haptic Off,2,8,ch15,1.146649618,1.146649618
+P05,Expert,Joystick,1,1,ch1,0,0
+P05,Expert,Joystick,1,2,ch2,10.31933833,10.31933833
+P05,Expert,Joystick,1,3,ch6,2.066802628,2.066802628
+P05,Expert,Joystick,1,4,ch7,10.07120574,10.07120574
+P05,Expert,Joystick,1,5,ch10,5.987201373,5.987201373
+P05,Expert,Joystick,1,6,ch13,4.063660755,4.063660755
+P05,Expert,Joystick,1,7,ch14,0.493929138,0.493929138
+P05,Expert,Joystick,1,8,ch15,1.758525046,1.758525046
+P05,Expert,Joystick,2,1,ch1,0,0
+P05,Expert,Joystick,2,2,ch2,0,0
+P05,Expert,Joystick,2,3,ch6,5.367771118,5.367771118
+P05,Expert,Joystick,2,4,ch7,5.566861244,5.566861244
+P05,Expert,Joystick,2,5,ch10,0,0
+P05,Expert,Joystick,2,6,ch13,3.85127132,3.85127132
+P05,Expert,Joystick,2,7,ch14,1.102597095,1.102597095
+P05,Expert,Joystick,2,8,ch15,1.146649618,1.146649618
+P06,Expert,Manual,1,1,ch1,0,0
+P06,Expert,Manual,1,2,ch2,0,0
+P06,Expert,Manual,1,3,ch6,0,0
+P06,Expert,Manual,1,4,ch7,2.376283892,2.376283892
+P06,Expert,Manual,1,5,ch10,0,0
+P06,Expert,Manual,1,6,ch13,2.789324147,2.789324147
+P06,Expert,Manual,1,7,ch14,0,0
+P06,Expert,Manual,1,8,ch15,0,0
+P06,Expert,Manual,2,1,ch1,0,0
+P06,Expert,Manual,2,2,ch2,0,0
+P06,Expert,Manual,2,3,ch6,0,0
+P06,Expert,Manual,2,4,ch7,1.813240829,1.625559809
+P06,Expert,Manual,2,5,ch10,0,0
+P06,Expert,Manual,2,6,ch13,3.001713582,3.001713582
+P06,Expert,Manual,2,7,ch14,0,0
+P06,Expert,Manual,2,8,ch15,0,0
+P06,Expert,Haptic On,1,1,ch1,0,0
+P06,Expert,Haptic On,1,2,ch2,0,0
+P06,Expert,Haptic On,1,3,ch6,0,0
+P06,Expert,Haptic On,1,4,ch7,0,0
+P06,Expert,Haptic On,1,5,ch10,0,0
+P06,Expert,Haptic On,1,6,ch13,0,0
+P06,Expert,Haptic On,1,7,ch14,0.1895951598,0.1895951598
+P06,Expert,Haptic On,1,8,ch15,0,0
+P06,Expert,Haptic On,2,1,ch1,0,0
+P06,Expert,Haptic On,2,2,ch2,0,0
+P06,Expert,Haptic On,2,3,ch6,1.883415489,1.883415489
+P06,Expert,Haptic On,2,4,ch7,2.939326954,2.939326954
+P06,Expert,Haptic On,2,5,ch10,0,0
+P06,Expert,Haptic On,2,6,ch13,3.85127132,3.85127132
+P06,Expert,Haptic On,2,7,ch14,1.102597095,1.102597095
+P06,Expert,Haptic On,2,8,ch15,1.146649618,1.146649618
+P06,Expert,Haptic Off,1,1,ch1,0,0
+P06,Expert,Haptic Off,1,2,ch2,0,0
+P06,Expert,Haptic Off,1,3,ch6,0.7830926593,0.7830926593
+P06,Expert,Haptic Off,1,4,ch7,0,0
+P06,Expert,Haptic Off,1,5,ch10,0,0
+P06,Expert,Haptic Off,1,6,ch13,4.488439624,4.488439624
+P06,Expert,Haptic Off,1,7,ch14,0.493929138,0.493929138
+P06,Expert,Haptic Off,1,8,ch15,0,0
+P06,Expert,Haptic Off,2,1,ch1,0,0
+P06,Expert,Haptic Off,2,2,ch2,0,0
+P06,Expert,Haptic Off,2,3,ch6,0,0
+P06,Expert,Haptic Off,2,4,ch7,1.625559809,1.625559809
+P06,Expert,Haptic Off,2,5,ch10,0,0
+P06,Expert,Haptic Off,2,6,ch13,2.152155843,2.152155843
+P06,Expert,Haptic Off,2,7,ch14,0.6460961272,0.6460961272
+P06,Expert,Haptic Off,2,8,ch15,0,0
+P06,Expert,Joystick,1,1,ch1,0,0
+P06,Expert,Joystick,1,2,ch2,0,0
+P06,Expert,Joystick,1,3,ch6,10.68599813,10.68599813
+P06,Expert,Joystick,1,4,ch7,2.751645933,2.751645933
+P06,Expert,Joystick,1,5,ch10,0,0
+P06,Expert,Joystick,1,6,ch13,1.514987539,1.514987539
+P06,Expert,Joystick,1,7,ch14,1.86343204,1.86343204
+P06,Expert,Joystick,1,8,ch15,0,0
+P06,Expert,Joystick,2,1,ch1,0,0
+P06,Expert,Joystick,2,2,ch2,0,0
+P06,Expert,Joystick,2,3,ch6,0.04954410592,0.04954410592
+P06,Expert,Joystick,2,4,ch7,0,0
+P06,Expert,Joystick,2,5,ch10,0,0
+P06,Expert,Joystick,2,6,ch13,0,0
+P06,Expert,Joystick,2,7,ch14,0.6460961272,0.6460961272
+P06,Expert,Joystick,2,8,ch15,0,0
+P07,Novice,Haptic On,1,1,ch1,6.642352096,6.642352096
+P07,Novice,Haptic On,1,2,ch2,29.41781523,29.41781523
+P07,Novice,Haptic On,1,3,ch6,22.05600071,22.05600071
+P07,Novice,Haptic On,1,4,ch7,1.625559809,1.625559809
+P07,Novice,Haptic On,1,5,ch10,17.11470257,15.72376492
+P07,Novice,Haptic On,1,6,ch13,0,0
+P07,Novice,Haptic On,1,7,ch14,3.53726892,3.53726892
+P07,Novice,Haptic On,1,8,ch15,0,0
+P07,Novice,Haptic On,2,1,ch1,6.282207077,6.282207077
+P07,Novice,Haptic On,2,2,ch2,29.41781523,29.41781523
+P07,Novice,Haptic On,2,3,ch6,23.52309781,23.52309781
+P07,Novice,Haptic On,2,4,ch7,2.751645933,2.751645933
+P07,Novice,Haptic On,2,5,ch10,15.02829609,15.02829609
+P07,Novice,Haptic On,2,6,ch13,0,0
+P07,Novice,Haptic On,2,7,ch14,3.841602899,3.841602899
+P07,Novice,Haptic On,2,8,ch15,0,0
+P07,Novice,Haptic Off,1,1,ch1,7.362642136,7.362642136
+P07,Novice,Haptic Off,1,2,ch2,34.19243446,34.19243446
+P07,Novice,Haptic Off,1,3,ch6,20.40551646,20.40551646
+P07,Novice,Haptic Off,1,4,ch7,2.188602871,2.188602871
+P07,Novice,Haptic Off,1,5,ch10,18.50564022,18.50564022
+P07,Novice,Haptic Off,1,6,ch13,0,0
+P07,Novice,Haptic Off,1,7,ch14,3.385101931,3.385101931
+P07,Novice,Haptic Off,1,8,ch15,0,0
+P07,Novice,Haptic Off,2,1,ch1,3.0409019,3.0409019
+P07,Novice,Haptic Off,2,2,ch2,38.96705368,38.96705368
+P07,Novice,Haptic Off,2,3,ch6,25.72374347,25.72374347
+P07,Novice,Haptic Off,2,4,ch7,1.813240829,1.813240829
+P07,Novice,Haptic Off,2,5,ch10,20.59204669,20.59204669
+P07,Novice,Haptic Off,2,6,ch13,0,0
+P07,Novice,Haptic Off,2,7,ch14,4.145936877,4.145936877
+P07,Novice,Haptic Off,2,8,ch15,0,0
+P07,Novice,Joystick,1,1,ch1,6.282207077,6.282207077
+P07,Novice,Joystick,1,2,ch2,34.19243446,34.19243446
+P07,Novice,Joystick,1,3,ch6,24.07325923,24.07325923
+P07,Novice,Joystick,1,4,ch7,3.502370016,3.502370016
+P07,Novice,Joystick,1,5,ch10,18.50564022,18.50564022
+P07,Novice,Joystick,1,6,ch13,0,0
+P07,Novice,Joystick,1,7,ch14,3.993769888,3.993769888
+P07,Novice,Joystick,1,8,ch15,0,0
+P07,Novice,Joystick,2,1,ch1,6.282207077,6.282207077
+P07,Novice,Joystick,2,2,ch2,38.96705368,38.96705368
+P07,Novice,Joystick,2,3,ch6,25.54035634,25.54035634
+P07,Novice,Joystick,2,4,ch7,5.754542265,5.754542265
+P07,Novice,Joystick,2,5,ch10,19.89657786,19.89657786
+P07,Novice,Joystick,2,6,ch13,0,0
+P07,Novice,Joystick,2,7,ch14,4.145936877,4.145936877
+P07,Novice,Joystick,2,8,ch15,0,0
+P08,Novice,Manual,1,1,ch1,0,0
+P08,Novice,Manual,1,2,ch2,0,0
+P08,Novice,Manual,1,3,ch6,0,0
+P08,Novice,Manual,1,4,ch7,0,0
+P08,Novice,Manual,1,5,ch10,0,0
+P08,Novice,Manual,1,6,ch13,3.214103016,3.214103016
+P08,Novice,Manual,1,7,ch14,0,0
+P08,Novice,Manual,1,8,ch15,0,0
+P08,Novice,Manual,2,1,ch1,0,0
+P08,Novice,Manual,2,2,ch2,0,0
+P08,Novice,Manual,2,3,ch6,0,0
+P08,Novice,Manual,2,4,ch7,0,0
+P08,Novice,Manual,2,5,ch10,0,0
+P08,Novice,Manual,2,6,ch13,3.638881885,3.638881885
+P08,Novice,Manual,2,7,ch14,0,0
+P08,Novice,Manual,2,8,ch15,0,0
+P08,Novice,Haptic On,1,1,ch1,5.561917037,2.320611861
+P08,Novice,Haptic On,1,2,ch2,19.86857678,19.86857678
+P08,Novice,Haptic On,1,3,ch6,7.201642501,7.201642501
+P08,Novice,Haptic On,1,4,ch7,3.314688995,3.314688995
+P08,Novice,Haptic On,1,5,ch10,10.16001432,10.16001432
+P08,Novice,Haptic On,1,6,ch13,12.13445927,8.94861775
+P08,Novice,Haptic On,1,7,ch14,1.102597095,1.102597095
+P08,Novice,Haptic On,1,8,ch15,0,0
+P08,Novice,Haptic On,2,1,ch1,2.140539351,2.140539351
+P08,Novice,Haptic On,2,2,ch2,10.31933833,5.544719101
+P08,Novice,Haptic On,2,3,ch6,2.066802628,2.066802628
+P08,Novice,Haptic On,2,4,ch7,0,0
+P08,Novice,Haptic On,2,5,ch10,5.987201373,3.205326075
+P08,Novice,Haptic On,2,6,ch13,8.736228316,8.311449446
+P08,Novice,Haptic On,2,7,ch14,0.1895951598,0.1895951598
+P08,Novice,Haptic On,2,8,ch15,0,0
+P08,Novice,Haptic Off,1,1,ch1,5.201772018,5.201772018
+P08,Novice,Haptic Off,1,2,ch2,10.31933833,10.31933833
+P08,Novice,Haptic Off,1,3,ch6,0.9664797976,0.9664797976
+P08,Novice,Haptic Off,1,4,ch7,0,0
+P08,Novice,Haptic Off,1,5,ch10,6.682670198,6.682670198
+P08,Novice,Haptic Off,1,6,ch13,21.90437326,21.90437326
+P08,Novice,Haptic Off,1,7,ch14,0.1895951598,0.1895951598
+P08,Novice,Haptic Off,1,8,ch15,0,0
+P08,Novice,Haptic Off,2,1,ch1,3.22097441,3.22097441
+P08,Novice,Haptic Off,2,2,ch2,5.544719101,5.544719101
+P08,Novice,Haptic Off,2,3,ch6,3.533899734,3.533899734
+P08,Novice,Haptic Off,2,4,ch7,0,0
+P08,Novice,Haptic Off,2,5,ch10,3.900794899,3.900794899
+P08,Novice,Haptic Off,2,6,ch13,9.585786054,9.585786054
+P08,Novice,Haptic Off,2,7,ch14,0.493929138,0.493929138
+P08,Novice,Haptic Off,2,8,ch15,0,0
+P08,Novice,Joystick,1,1,ch1,3.22097441,0
+P08,Novice,Joystick,1,2,ch2,10.31933833,10.31933833
+P08,Novice,Joystick,1,3,ch6,4.267448288,0.4163183826
+P08,Novice,Joystick,1,4,ch7,0,0
+P08,Novice,Joystick,1,5,ch10,8.769076671,8.769076671
+P08,Novice,Joystick,1,6,ch13,11.0725121,8.94861775
+P08,Novice,Joystick,1,7,ch14,0.6460961272,0.03742817071
+P08,Novice,Joystick,1,8,ch15,0,0
+P08,Novice,Joystick,2,1,ch1,3.22097441,3.22097441
+P08,Novice,Joystick,2,2,ch2,10.31933833,10.31933833
+P08,Novice,Joystick,2,3,ch6,0,0
+P08,Novice,Joystick,2,4,ch7,0,0
+P08,Novice,Joystick,2,5,ch10,6.682670198,6.682670198
+P08,Novice,Joystick,2,6,ch13,8.523838881,7.249502273
+P08,Novice,Joystick,2,7,ch14,0,0
+P08,Novice,Joystick,2,8,ch15,0,0
+P09,Novice,Manual,1,1,ch1,2.86082939,2.86082939
+P09,Novice,Manual,1,2,ch2,15.09395755,15.09395755
+P09,Novice,Manual,1,3,ch6,3.350512596,3.350512596
+P09,Novice,Manual,1,4,ch7,0,0
+P09,Novice,Manual,1,5,ch10,4.596263724,4.596263724
+P09,Novice,Manual,1,6,ch13,21.05481552,21.05481552
+P09,Novice,Manual,1,7,ch14,0.3417621489,0.3417621489
+P09,Novice,Manual,1,8,ch15,0,0
+P09,Novice,Manual,2,1,ch1,4.301409469,4.301409469
+P09,Novice,Manual,2,2,ch2,10.31933833,10.31933833
+P09,Novice,Manual,2,3,ch6,0.9664797976,0.9664797976
+P09,Novice,Manual,2,4,ch7,0,0
+P09,Novice,Manual,2,5,ch10,3.900794899,3.900794899
+P09,Novice,Manual,2,6,ch13,20.41764722,20.41764722
+P09,Novice,Manual,2,7,ch14,0,0
+P09,Novice,Manual,2,8,ch15,0,0
+P09,Novice,Haptic On,1,1,ch1,16.54634014,16.54634014
+P09,Novice,Haptic On,1,2,ch2,53.29091136,48.51629213
+P09,Novice,Haptic On,1,3,ch6,26.45729203,24.07325923
+P09,Novice,Haptic On,1,4,ch7,4.44077512,4.44077512
+P09,Novice,Haptic On,1,5,ch10,28.93767258,25.46032846
+P09,Novice,Haptic On,1,6,ch13,24.24065704,22.32915213
+P09,Novice,Haptic On,1,7,ch14,4.298103866,3.841602899
+P09,Novice,Haptic On,1,8,ch15,0,0
+P09,Novice,Haptic On,2,1,ch1,14.56554253,14.56554253
+P09,Novice,Haptic On,2,2,ch2,43.74167291,43.74167291
+P09,Novice,Haptic On,2,3,ch6,14.90390231,14.90390231
+P09,Novice,Haptic On,2,4,ch7,2.751645933,2.751645933
+P09,Novice,Haptic On,2,5,ch10,23.37392199,23.37392199
+P09,Novice,Haptic On,2,6,ch13,20.63003665,20.63003665
+P09,Novice,Haptic On,2,7,ch14,2.319933007,2.319933007
+P09,Novice,Haptic On,2,8,ch15,0,0
+P09,Novice,Haptic Off,1,1,ch1,12.40467241,12.40467241
+P09,Novice,Haptic Off,1,2,ch2,48.51629213,48.51629213
+P09,Novice,Haptic Off,1,3,ch6,18.57164508,18.57164508
+P09,Novice,Haptic Off,1,4,ch7,2.751645933,2.751645933
+P09,Novice,Haptic Off,1,5,ch10,28.24220376,28.24220376
+P09,Novice,Haptic Off,1,6,ch13,22.753931,22.753931
+P09,Novice,Haptic Off,1,7,ch14,2.928600964,2.928600964
+P09,Novice,Haptic Off,1,8,ch15,0,0
+P09,Novice,Haptic Off,2,1,ch1,14.20539751,14.20539751
+P09,Novice,Haptic Off,2,2,ch2,43.74167291,43.74167291
+P09,Novice,Haptic Off,2,3,ch6,11.9697081,11.78632096
+P09,Novice,Haptic Off,2,4,ch7,0,0
+P09,Novice,Haptic Off,2,5,ch10,24.76485964,24.76485964
+P09,Novice,Haptic Off,2,6,ch13,19.14331061,18.71853174
+P09,Novice,Haptic Off,2,7,ch14,1.711265051,1.711265051
+P09,Novice,Haptic Off,2,8,ch15,0,0
+P09,Novice,Joystick,1,1,ch1,17.98692022,17.98692022
+P09,Novice,Joystick,1,2,ch2,53.29091136,53.29091136
+P09,Novice,Joystick,1,3,ch6,28.47455055,28.47455055
+P09,Novice,Joystick,1,4,ch7,8.006714514,8.006714514
+P09,Novice,Joystick,1,5,ch10,28.24220376,28.24220376
+P09,Novice,Joystick,1,6,ch13,24.66543591,24.66543591
+P09,Novice,Joystick,1,7,ch14,4.602437844,4.602437844
+P09,Novice,Joystick,1,8,ch15,1.146649618,1.146649618
+P09,Novice,Joystick,2,1,ch1,13.12496245,13.12496245
+P09,Novice,Joystick,2,2,ch2,58.06553059,58.06553059
+P09,Novice,Joystick,2,3,ch6,16.7377737,16.7377737
+P09,Novice,Joystick,2,4,ch7,2.00092185,2.00092185
+P09,Novice,Joystick,2,5,ch10,31.02407906,31.02407906
+P09,Novice,Joystick,2,6,ch13,19.78047891,19.78047891
+P09,Novice,Joystick,2,7,ch14,2.624266986,2.624266986
+P09,Novice,Joystick,2,8,ch15,0,0

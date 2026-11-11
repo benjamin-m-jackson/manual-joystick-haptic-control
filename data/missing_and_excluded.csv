@@ -1,0 +1,14 @@
+participant,controller,repeat,missing_from,reason
+P07,Manual,1,force analyses only,force-sensor log corrupted
+P07,Manual,2,force analyses only,force-sensor log corrupted
+P04,Haptic On,2,all analyses,not performed: the catheter broke during the joystick initial attempt and a replacement could not be obtained before the end of the session
+P04,Joystick,1,all analyses,"attempted, but the catheter broke during the navigation; the navigation could not be completed and was not recorded"
+P04,Joystick,2,all analyses,not performed: the catheter broke during the joystick initial attempt and a replacement could not be obtained before the end of the session
+P04,Haptic Off,2,force analyses only,force-sensor log corrupted
+P09,,,not a study trial,force log 'haptic_on_nav_2_fail' excluded: attempt aborted because of a technical (robot/device) problem; the trial was re-run and the re-run is analysed
+P04,,,not a study trial,"force log 'manual_nav_left' excluded: navigation to the left internal carotid artery, which was not part of this study"
+P04,,,not a study trial,"force log 'manual_nav_left_2' excluded: navigation to the left internal carotid artery, which was not part of this study"
+P06,Joystick,1,not a study trial,"force log 'joystick_nav' excluded: it is a recording of a practice run, labelled as this trial; the trial's own log (logger file 'output_155') is used instead (correction made in revision R2)"
+P06,Haptic Off,1,not a study trial,"force log 'haptic_off_nav' excluded: it is a recording of a practice run, labelled as this trial; the trial's own log (logger file 'output_157') is used instead (correction made in revision R2)"
+P07,Haptic On,1,not a study trial,"force log 'haptic_on_nav' excluded: it is a recording of a preview run, labelled as this trial; the trial's own log (logger file 'output_63') is used instead (correction made in revision R2)"
+(none),,,all analyses,tenth participant (expert) excluded: experiment only partially completed; no data released

@@ -1,0 +1,10 @@
+participant,expertise,realism_vessel_image,realism_device_image,realism_phantom,intuitive_manual,tlx_manual_mental,tlx_manual_physical,tlx_manual_temporal,tlx_manual_performance,tlx_manual_effort,tlx_manual_frustration,intuitive_haptic_on,tlx_haptic_on_mental,tlx_haptic_on_physical,tlx_haptic_on_temporal,tlx_haptic_on_performance,tlx_haptic_on_effort,tlx_haptic_on_frustration,intuitive_haptic_off,tlx_haptic_off_mental,tlx_haptic_off_physical,tlx_haptic_off_temporal,tlx_haptic_off_performance,tlx_haptic_off_effort,tlx_haptic_off_frustration,intuitive_joystick,tlx_joystick_mental,tlx_joystick_physical,tlx_joystick_temporal,tlx_joystick_effort,tlx_joystick_performance,tlx_joystick_frustration,most_intuitive_robotic_controller,sus_01,sus_02,sus_03,sus_04,sus_05,sus_06,sus_07,sus_08,sus_09,sus_10,training_teaching_tool,training_practice_tool
+P01,Expert,10,10,7,10,2,1,1,10,3,1,7,7,3,6,10,7,3,7,7,3,6,8,7,3,5,8,4,9,8,10,3,Robot Controller (Haptics On),4,2,6,3,6,5,8,3,8,6,2,3
+P02,Expert,9,10,10,9,3,4,1,10,4,1,9,5,6,4,8,4,2,6,4,4,3,8,3,2,3,8,1,8,8,4,6,Robot Controller (Haptics On),10,1,10,4,10,1,10,1,10,1,10,7
+P03,Expert,8,9,8,9,2,1,5,9,3,2,4,8,3,6,4,9,5,6,7,2,5,3,7,4,7,6,1,3,6,5,3,Joystick Controller,1,1,4,9,7,3,3,5,4,7,3,4
+P04,Novice,8,10,9,9,7,3,7,7,6,6,8,8,4,4,6,8,7,8,8,7,6,7,8,7,9,6,5,6,7,6,7,Robot Controller (Haptics Off),4,2,8,8,9,6,8,3,5,7,6,7
+P05,Expert,8,10,9,8,2,2,3,8,2,2,8,7,4,5,4,6,6,6,6,5,5,6,5,4,4,7,6,5,7,7,6,Robot Controller (Haptics Off),6,3,7,7,7,2,8,3,8,2,8,2
+P06,Expert,10,10,9,10,1,1,1,10,1,1,5,6,1,2,5,7,7,6,7,1,5,4,7,6,7,5,1,1,6,6,6,Joystick Controller,1,1,9,2,8,1,8,8,2,1,8,8
+P07,Novice,8,8,7,,,,,,,,6,7,5,5,4,8,6,8,6,5,5,6,7,5,3,8,6,9,9,3,8,Robot Controller (Haptics Off),7,3,7,2,7,2,9,3,7,3,10,10
+P08,Novice,10,10,10,10,3,2,2,9,4,2,4,8,2,9,6,8,8,4,8,2,9,6,8,9,7,6,2,7,7,6,7,Joystick Controller,8,4,7,10,8,3,7,4,4,4,7,6
+P09,Novice,5,9,8,10,2,1,1,8,2,2,9,4,2,5,7,5,5,9,5,2,5,8,6,6,7,6,2,8,8,3,9,Robot Controller (Haptics Off),6,2,9,8,8,3,9,2,8,2,2,2

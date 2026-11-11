@@ -1,0 +1,68 @@
+file,expected_passage,status,problems,keys
+sections/abstract.tex,"significantly faster (mean 47.7 s) than all robotic modalities: haptic on (248.7 s), haptic off (314.7 s), and joystick (392.6 s) (all p$<$0.001)",OK,,time.Manual.mean; time.Haptic On.mean; time.Haptic Off.mean; time.Joystick.mean; time.lmm.Haptic On_vs_Manual.p; time.lmm.Haptic Off_vs_Manual.p; time.lmm.Joystick_vs_Manual.p
+sections/abstract.tex,when compared directly (p$<$0.001 and p=0.035),OK,,time.lmm.Haptic On_vs_Joystick.p; time.lmm.Haptic Off_vs_Joystick.p
+sections/abstract.tex,when the 17 navigations stopped at the eight-minute limit were treated as censored (p=0.079),OK,,time.all.n_stopped_at_limit; time.cox.Haptic Off_vs_Joystick.p
+sections/abstract.tex,"more prolapse events than manual navigation (p$\leq$0.009, with small-sample-corrected standard errors)",OK,,prolapse.gee_md.Haptic On_vs_Manual.p; prolapse.gee_md.Haptic Off_vs_Manual.p; prolapse.gee_md.Joystick_vs_Manual.p
+sections/abstract.tex,prolapse did not differ significantly between the robotic controllers,OK,,prolapse.gee_md.Haptic On_vs_Joystick.p; prolapse.gee_md.Haptic Off_vs_Joystick.p; prolapse.gee_md.Haptic Off_vs_Haptic On.p
+sections/abstract.tex,"Navigation time, incorrect catheterizations, and prolapse events did not differ significantly by experience",OK,,time.lmm.expert_vs_novice.lr_p; cath.gee_md.expert_vs_novice.p; prolapse.gee_md.expert_vs_novice.p
+sections/abstract.tex,System Usability Scale scores averaged 68.1 (0--100 scale),OK,,q.sus_score.all.mean
+sections/methods.tex,"Of the 72 planned navigations, 69 were performed",OK,,time.all.n
+sections/methods.tex,Force logs were available for 66 of the 69 navigations,OK,,force.n_navigations; time.all.n
+sections/methods.tex,"Seventeen navigations reached the limit: joystick 10 of 16, haptic off 6 of 18, haptic on 1 of 17, and manual 0 of 18.",OK,,time.all.n_stopped_at_limit; time.Joystick.n_stopped_at_limit; time.Joystick.n; time.Haptic Off.n_stopped_at_limit; time.Haptic Off.n; time.Haptic On.n_stopped_at_limit; time.Haptic On.n; time.Manual.n_stopped_at_limit; time.Manual.n
+sections/results.tex,"mean completion time of $47.7\pm28.0$\,s ($n=18$ navigations)",OK,,time.Manual.mean; time.Manual.sd; time.Manual.n
+sections/results.tex,"haptic on averaged $248.7\pm123.0$\,s ($n=17$), haptic off $314.7\pm157.8$\,s ($n=18$), and joystick navigation $392.6\pm145.1$\,s ($n=16$)",OK,,time.Haptic On.mean; time.Haptic On.sd; time.Haptic On.n; time.Haptic Off.mean; time.Haptic Off.sd; time.Haptic Off.n; time.Joystick.mean; time.Joystick.sd; time.Joystick.n
+sections/results.tex,"(likelihood-ratio test, $\chi^2(3) = 60.51$, $p = 4.6\times10^{-13}$)",OK,,time.lmm.omnibus.chi2; time.lmm.omnibus.p
+sections/results.tex,faster than each robotic controller ($p < 0.001$ for all three),OK,,time.lmm.Haptic On_vs_Manual.p; time.lmm.Haptic Off_vs_Manual.p; time.lmm.Joystick_vs_Manual.p
+sections/results.tex,"(haptic on: $-2.40$\,min, $p<0.001$; haptic off: $-1.27$\,min, $p=0.035$)",OK,,time.lmm.Haptic On_vs_Joystick.coef_min; time.lmm.Haptic On_vs_Joystick.p; time.lmm.Haptic Off_vs_Joystick.coef_min; time.lmm.Haptic Off_vs_Joystick.p
+sections/results.tex,"was not significant ($+1.14$\,min with haptic off, $p=0.054$)",OK,,time.lmm.Haptic Off_vs_Haptic On.coef_min; time.lmm.Haptic Off_vs_Haptic On.p
+sections/results.tex,"navigation was on average $0.72$\,min faster on the repeat attempt, which was not significant ($p=0.085$)",OK,,time.lmm.repeat.coef_min; time.lmm.repeat.p
+sections/results.tex,"faster than the joystick (hazard ratio 5.4, 95\% CI 1.8--15.8, $p=0.002$)",OK,,time.cox.Haptic On_vs_Joystick.hr; time.cox.Haptic On_vs_Joystick.hr_lo; time.cox.Haptic On_vs_Joystick.hr_hi; time.cox.Haptic On_vs_Joystick.p
+sections/results.tex,"not significant in this analysis (hazard ratio 2.7, 95\% CI 0.9--8.3, $p=0.079$), nor was the difference between haptic on and haptic off ($p=0.13$)",OK,,time.cox.Haptic Off_vs_Joystick.hr; time.cox.Haptic Off_vs_Joystick.hr_lo; time.cox.Haptic Off_vs_Joystick.hr_hi; time.cox.Haptic Off_vs_Joystick.p; time.cox.Haptic Off_vs_Haptic On.p
+sections/results.tex,"lowest maximum forces across all sensors ($2.5\pm5.7$\,mN)",OK,,force.Manual.mean; force.Manual.sd
+sections/results.tex,"(haptic on $7.3\pm10.2$\,mN; haptic off $7.05\pm10.82$\,mN; joystick $7.00\pm10.82$\,mN; means $\pm$ SD over $n=136$, $136$, and $128$ sensor readings)",OK,,force.Haptic On.mean; force.Haptic On.sd; force.Haptic Off.mean; force.Haptic Off.sd; force.Joystick.mean; force.Joystick.sd; force.Haptic On.n; force.Haptic Off.n; force.Joystick.n
+sections/results.tex,"with maxima of 53.3 and 58.1\,mN",OK,,force.Haptic Off.max; force.Joystick.max
+sections/results.tex,"(likelihood-ratio test, $\chi^2(3)=95.20$, $p<0.0001$): each robotic controller",OK,,force.lmm.omnibus.chi2; force.lmm.omnibus.p
+sections/results.tex,"(haptic on $+4.5$\,mN; haptic off $+4.3$\,mN; joystick $+4.7$\,mN; all $p<0.001$",OK,,force.lmm.Haptic On_vs_Manual.coef_mN; force.lmm.Haptic Off_vs_Manual.coef_mN; force.lmm.Joystick_vs_Manual.coef_mN; force.lmm.Haptic On_vs_Manual.p; force.lmm.Haptic Off_vs_Manual.p; force.lmm.Joystick_vs_Manual.p
+sections/results.tex,with no significant differences among the three robotic controllers,OK,,force.lmm.Haptic On_vs_Joystick.p; force.lmm.Haptic Off_vs_Joystick.p; force.lmm.Haptic Off_vs_Haptic On.p
+sections/results.tex,"Peak forces were also lower on the repeat attempt ($-1.5$\,mN, $p<0.001$)",OK,,force.lmm.repeat.coef_mN; force.lmm.repeat.p
+sections/results.tex,Both force sensitivity analyses (Section~\ref{sec:statistics}) gave the same conclusions.,OK,,force.window.Haptic On_vs_Manual.p; force.window.Haptic Off_vs_Manual.p; force.window.Joystick_vs_Manual.p; force.covered.Haptic On_vs_Manual.p; force.covered.Haptic Off_vs_Manual.p; force.covered.Joystick_vs_Manual.p; force.window.Haptic On_vs_Joystick.p; force.window.Haptic Off_vs_Joystick.p; force.window.Haptic Off_vs_Haptic On.p; force.covered.Haptic On_vs_Joystick.p; force.covered.Haptic Off_vs_Joystick.p; force.covered.Haptic Off_vs_Haptic On.p; force.window.repeat.p; force.covered.repeat.p
+sections/results.tex,with a mean of $0.22\pm0.43$ incorrect catheterizations per navigation,OK,,cath.Manual.mean; cath.Manual.sd
+sections/results.tex,"haptic on showed the fewest errors ($0.29\pm0.69$), followed by joystick navigation ($0.50\pm0.63$), while haptic off yielded the highest mean rate at $0.61\pm0.92$.",OK,,cath.Haptic On.mean; cath.Haptic On.sd; cath.Joystick.mean; cath.Joystick.sd; cath.Haptic Off.mean; cath.Haptic Off.sd
+sections/results.tex,"(Wald test, $\chi^2(3) = 5.86$, $p = 0.12$). In pairwise contrasts, joystick navigation had more incorrect catheterizations than manual control ($p = 0.032$)",OK,,cath.gee_md.omnibus.chi2; cath.gee_md.omnibus.p; cath.gee_md.Joystick_vs_Manual.p
+sections/results.tex,"neither haptic mode differed significantly from manual, nor from the joystick",OK,,cath.gee_md.Haptic On_vs_Manual.p; cath.gee_md.Haptic On_vs_Joystick.p; cath.gee_md.Haptic Off_vs_Manual.p; cath.gee_md.Haptic Off_vs_Joystick.p
+sections/results.tex,Incorrect catheterizations were lower on the repeat attempt ($p=0.049$),OK,,cath.gee_md.repeat.p
+sections/results.tex,at only $0.11\pm0.32$ events per navigation,OK,,prolapse.Manual.mean; prolapse.Manual.sd
+sections/results.tex,with $1.56\pm1.09$ events per navigation.,OK,,prolapse.Joystick.mean; prolapse.Joystick.sd
+sections/results.tex,"\textit{haptic off} yielded $0.83\pm1.04$ events, and \textit{haptic on} showed a lower mean of $0.65\pm0.86$ events",OK,,prolapse.Haptic Off.mean; prolapse.Haptic Off.sd; prolapse.Haptic On.mean; prolapse.Haptic On.sd
+sections/results.tex,"(Wald test, $\chi^2(3) = 12.18$, $p = 0.0068$). All three robotic",OK,,prolapse.gee_md.omnibus.chi2; prolapse.gee_md.omnibus.p
+sections/results.tex,(haptic on $p=0.002$; haptic off $p=0.009$; joystick $p<0.001$),OK,,prolapse.gee_md.Haptic On_vs_Manual.p; prolapse.gee_md.Haptic Off_vs_Manual.p; prolapse.gee_md.Joystick_vs_Manual.p
+sections/results.tex,neither haptic on ($p=0.064$) nor haptic off ($p=0.22$) differed significantly. The trial-repeat effect was not significant ($p=0.49$),OK,,prolapse.gee_md.Haptic On_vs_Joystick.p; prolapse.gee_md.Haptic Off_vs_Joystick.p; prolapse.gee_md.repeat.p
+sections/results.tex,were accounted for (Section~\ref{sec:statistics}; $p=0.759$),OK,,time.lmm.expert_vs_novice.lr_p
+sections/results.tex,"novices averaged $250.9\pm181.6$\,s and experts $243.9\pm176.0$\,s",OK,,time.Novice.mean; time.Novice.sd; time.Expert.mean; time.Expert.sd
+sections/results.tex,"(novice mean $9.8\pm12.7$\,mN vs.\ expert mean $3.5\pm6.2$\,mN",OK,,force.Novice.mean; force.Novice.sd; force.Expert.mean; force.Expert.sd
+sections/results.tex,"(experts $6.5$\,mN lower, $p=0.0024$)",OK,,force.lmm.expert_vs_novice.coef_mN; force.lmm.expert_vs_novice.lr_p
+sections/results.tex,"significant at sensors 1, 2, and 5 ($p_{\mathrm{adj}} = 0.002$, $0.022$, $0.019$) but not at sensors 3, 4, or 6--8",OK,,force.lmm.sensor1.expert_vs_novice.p_bonf; force.lmm.sensor2.expert_vs_novice.p_bonf; force.lmm.sensor5.expert_vs_novice.p_bonf; force.lmm.sensor3.expert_vs_novice.p_bonf; force.lmm.sensor4.expert_vs_novice.p_bonf; force.lmm.sensor6.expert_vs_novice.p_bonf; force.lmm.sensor7.expert_vs_novice.p_bonf; force.lmm.sensor8.expert_vs_novice.p_bonf
+sections/results.tex,averaging $0.62\pm0.78$ versus $0.25\pm0.59$ errors per navigation,OK,,cath.Novice.mean; cath.Novice.sd; cath.Expert.mean; cath.Expert.sd
+sections/results.tex,"this difference was not significant ($p=0.16$), unlike the nominally significant result",OK,,cath.gee_md.expert_vs_novice.p
+sections/results.tex,averaging $0.97\pm1.18$ versus $0.63\pm0.84$ events per navigation,OK,,prolapse.Novice.mean; prolapse.Novice.sd; prolapse.Expert.mean; prolapse.Expert.sd
+sections/results.tex,"Adjusting for controller type and trial repeat (Section~\ref{sec:statistics}), this difference was not significant ($p=0.088$).",OK,,prolapse.gee_md.expert_vs_novice.p
+sections/results.tex,"two participants chose haptic on, four haptic off, and three the joystick",OK,,q.preferred.all.H; q.preferred.all.O; q.preferred.all.J
+sections/results.tex,most intuitive control method (mean $9.38 \pm 0.74$),OK,,q.intuitive_manual.all.mean; q.intuitive_manual.all.sd
+sections/results.tex,"rated equally ($6.67$ each) and somewhat higher than the joystick ($5.78$), but not significantly (paired $t$-test, device-mimicking average vs.\ joystick, $p = 0.37$)",OK,,q.intuitive_haptic_on.all.mean; q.intuitive_joystick.all.mean; q.intuitive.device_mimicking_vs_joystick.p
+sections/results.tex,(means $8.44$--$9.56$),OK,,q.realism_vessel_image.all.mean; q.realism_device_image.all.mean
+sections/results.tex,vascular anatomy higher than novices ($9.00 \pm 1.00$ vs.\ $7.75 \pm 2.06$),OK,,q.realism_vessel_image.expert.mean; q.realism_vessel_image.expert.sd; q.realism_vessel_image.novice.mean; q.realism_vessel_image.novice.sd
+sections/results.tex,teaching tool ($6.22 \pm 3.19$) and practice tool ($5.44 \pm 2.83$),OK,,q.training_teaching_tool.all.mean; q.training_teaching_tool.all.sd; q.training_practice_tool.all.mean; q.training_practice_tool.all.sd
+sections/results.tex,"(paired $t$-tests, all $p>0.16$)",OK,,q.tlx.haptic_on_vs_off.min_p
+sections/results.tex,"on Performance ($6.11\pm1.80$ vs.\ $5.56\pm2.19$), but not significantly ($p=0.51$)",OK,,q.tlx_performance.device_mimicking.mean; q.tlx_performance.device_mimicking.sd; q.tlx_joystick_performance.all.mean; q.tlx_joystick_performance.all.sd; q.tlx_performance.device_mimicking_vs_joystick.p
+sections/results.tex,The overall SUS score was $68.1 \pm 14.7$ ($n=9$),OK,,q.sus_score.all.mean; q.sus_score.all.sd; q.sus_score.all.n
+sections/results.tex,Experts and novices scored similarly ($68.4 \pm 19.1$ vs.\ $67.8 \pm 9.6$),OK,,q.sus_score.expert.mean; q.sus_score.expert.sd; q.sus_score.novice.mean; q.sus_score.novice.sd
+sections/results.tex,"(RM-ANOVA, $F(2,8)=0.82$, $p=0.48$)",OK,,q.tlx_effort.rm_anova_robotic.expert.df1; q.tlx_effort.rm_anova_robotic.expert.df2; q.tlx_effort.rm_anova_robotic.expert.F; q.tlx_effort.rm_anova_robotic.expert.p
+sections/discussion.tex,the difference between them was not significant ($p=0.054$; Section~\ref{subsubsec:cv_time}),OK,,time.lmm.Haptic Off_vs_Haptic On.p
+sections/discussion.tex,only the haptic-on advantage over the joystick remained significant,OK,,time.cox.Haptic On_vs_Joystick.p; time.cox.Haptic Off_vs_Joystick.p
+sections/discussion.tex,"(haptic on vs.\ joystick prolapse, $p=0.064$;",OK,,prolapse.gee_md.Haptic On_vs_Joystick.p
+sections/discussion.tex,differed only in an exploratory joystick-versus-manual contrast ($p=0.032$; overall $p=0.12$),OK,,cath.gee_md.Joystick_vs_Manual.p; cath.gee_md.omnibus.p
+sections/discussion.tex,similar between novices and experts ($p=0.759$),OK,,time.lmm.expert_vs_novice.lr_p
+sections/discussion.tex,both overall ($p=0.0024$),OK,,force.lmm.expert_vs_novice.lr_p
+sections/discussion.tex,Prolapse events ($p=0.088$) and incorrect catheterizations ($p=0.16$) did not differ significantly,OK,,prolapse.gee_md.expert_vs_novice.p; cath.gee_md.expert_vs_novice.p
+sections/discussion.tex,"(2.5--7.3\,mN by controller)",OK,,force.Manual.mean; force.Haptic On.mean
+sections/discussion.tex,"the highest single reading (58\,mN)",OK,,force.all.max

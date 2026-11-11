@@ -1,0 +1,40 @@
+participant,question,comment
+P01,comment_haptic_off,"haptics on slightly better, not sure in which sense"
+P01,comment_haptic_on,similar to real life. implcated different actions (changing devices) hoding is differnt
+P01,comment_joystick,side less intuitive (rotation)
+P01,comment_realism,could feel the rubbery texture. Atheroscrosis
+P02,comment_haptic_off,without haptics losing some information
+P02,comment_haptic_on,"similar to wire, but not exact"
+P02,comment_joystick,"we are untriained, not ble to move both together, continues movement, stepwise movement not ideal"
+P03,comment_haptic_off,"haptics off more intuirive, visual feedback."
+P03,comment_joystick,"similar to haptics off, visual feedback only. both ratcheted. behaved in predictable way. guidewire toruing less then 1:1. independent movement of both in quick succession"
+P03,comment_manual,"ergonomics, endovascular table or patients leg to work on."
+P03,comment_realism,"wire would catch on the wall of the phantom, happens in elderly patients. knew how to deal with"
+P03,improve_manual_realism,as above
+P04,comment_haptic_off,smoothness
+P04,comment_haptic_on,not as smooth as in manual
+P04,comment_manual,some getting used too
+P04,comment_realism,No flow brings to 9
+P05,comment_haptic_off,same as above
+P05,comment_haptic_on,option to independantly control both deices
+P05,comment_joystick,moving both together is needed.
+P05,comment_realism,"scale, vessel tortuousity accurate"
+P05,improve_manual_realism,"no drips no gloves,"
+P06,comment_haptic_off,don't think the haptics are necesary and don't help cause i can see on the screen
+P06,comment_haptic_on,"lag, lack of responsiveness, toquing is slow"
+P06,comment_realism,bit sticky and doesn;t staighten
+P07,comment_haptic_off,Definetly better then joystick. didn't notice the haptic.
+P07,comment_haptic_on,Delay loses all marks.  real time necessary
+P07,comment_joystick,way it controls the devices felt smoother
+P07,comment_realism,change from roadmap to dotted line was good
+P08,comment_haptic_off,same as before. didn't notice the haptics too much
+P08,comment_haptic_on,takes a lot of thought before action. to calculate the movement before the desired effect.
+P08,comment_joystick,consistent movement with stepwise motion made it easy to predict
+P08,comment_manual,Ber cath is simple i have plenty of experience with in a tricky but achievable task
+P08,comment_realism,tricky but plausible
+P09,comment_haptic_off,buttons to change devices
+P09,comment_haptic_on,buttons to differentiate catheter and wire.
+P09,comment_joystick,"seperation is intuitive, buttons are intuitive, integral element is unintuitive"
+P09,comment_manual,position of the phantom on the bed
+P09,comment_realism,within realms of possibilty of anatomy i;ve experences
+P09,improve_manual_realism,position of the phantom on the bed

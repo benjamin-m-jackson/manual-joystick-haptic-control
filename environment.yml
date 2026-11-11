@@ -1,0 +1,13 @@
+# Versions used to produce the results in output/ (2026-11-10).
+# Create with:  conda env create -f environment.yml   then   conda activate tmrb-r2-analysis
+name: tmrb-r2-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14.2
+  - numpy=2.4.2
+  - pandas=3.0.0
+  - scipy=1.17.0
+  - statsmodels=0.15.0
+  - patsy=1.0.3
+  - matplotlib=3.10.8

@@ -1,0 +1,73 @@
+\begin{table*}[!t]
+\caption{Qualitative outcomes: Overall vs.\ Novice ($\leq$5y) vs.\ Expert ($>$5y). 
+Values are mean $\pm$ SD on a 10-point scale. $^{\dagger}$One novice did not complete the manual section (n = 8: 3 novices, 5 experts).}
+\label{tab:qual_master}
+\centering
+\small
+\begin{tabular}{@{}p{0.48\textwidth}*{3}{>{\centering\arraybackslash}p{0.16\textwidth}}@{}}
+\toprule
+\thead{Item} & \thead{Overall (n = 9)} & \thead{Novice (n = 4)} & \thead{Expert (n = 5)} \\
+\midrule
+% ------------------ REALISM ------------------
+\multicolumn{4}{@{}l}{\textbf{Perceived Realism}}\\[2pt]
+\makecell[l]{The system provided a realistic fluoroscopic\\image of the vascular anatomy.} & @@realism_vessel_image:all@@ & @@realism_vessel_image:novice@@ & @@realism_vessel_image:expert@@ \\
+\makecell[l]{The system provided a realistic fluoroscopic\\image of the catheter and guidewire.} & @@realism_device_image:all@@ & @@realism_device_image:novice@@ & @@realism_device_image:expert@@ \\
+\makecell[l]{The endovascular phantom anatomy was\\realistic.} & @@realism_phantom:all@@ & @@realism_phantom:novice@@ & @@realism_phantom:expert@@ \\
+\addlinespace[4pt]
+
+% -------- CONTROLLER INTUITIVENESS --------
+\multicolumn{4}{@{}l}{\textbf{Controller Intuitiveness}}\\[2pt]
+\hspace{1em}Manual$^{\dagger}$ & @@intuitive_manual:all@@ & @@intuitive_manual:novice@@ & @@intuitive_manual:expert@@ \\
+\hspace{1em}Haptic On & @@intuitive_haptic_on:all@@ & @@intuitive_haptic_on:novice@@ & @@intuitive_haptic_on:expert@@ \\
+\hspace{1em}Haptic Off & @@intuitive_haptic_off:all@@ & @@intuitive_haptic_off:novice@@ & @@intuitive_haptic_off:expert@@ \\
+\hspace{1em}Joystick  & @@intuitive_joystick:all@@ & @@intuitive_joystick:novice@@ & @@intuitive_joystick:expert@@ \\
+\addlinespace[6pt]
+
+% --------------- TRAINING UTILITY ---------------
+\multicolumn{4}{@{}l}{\textbf{Training Utility}}\\[2pt]
+\makecell[l]{Good teaching tool for interventional\\radiology procedures.} & @@training_teaching_tool:all@@ & @@training_teaching_tool:novice@@ & @@training_teaching_tool:expert@@ \\
+\makecell[l]{Good practice / preparation tool for\\interventional radiology procedures.} & @@training_practice_tool:all@@ & @@training_practice_tool:novice@@ & @@training_practice_tool:expert@@ \\
+\addlinespace[4pt]
+
+% ---------------- NASA-TLX BY CONTROLLER ----------------
+\multicolumn{4}{@{}l}{\textbf{NASA\textendash TLX (by controller)}}\\
+\multicolumn{4}{@{}l}{\hspace{1em}\textit{Manual}$^{\dagger}$}\\
+Mental Demand      & @@tlx_manual_mental:all@@ & @@tlx_manual_mental:novice@@ & @@tlx_manual_mental:expert@@ \\
+Physical Demand    & @@tlx_manual_physical:all@@ & @@tlx_manual_physical:novice@@ & @@tlx_manual_physical:expert@@ \\
+Temporal Demand    & @@tlx_manual_temporal:all@@ & @@tlx_manual_temporal:novice@@ & @@tlx_manual_temporal:expert@@ \\
+Performance        & @@tlx_manual_performance:all@@ & @@tlx_manual_performance:novice@@ & @@tlx_manual_performance:expert@@ \\
+Effort             & @@tlx_manual_effort:all@@ & @@tlx_manual_effort:novice@@ & @@tlx_manual_effort:expert@@ \\
+Frustration        & @@tlx_manual_frustration:all@@ & @@tlx_manual_frustration:novice@@ & @@tlx_manual_frustration:expert@@ \\
+\addlinespace[2pt]
+\multicolumn{4}{@{}l}{\hspace{1em}\textit{Haptic On}}\\
+Mental Demand      & @@tlx_haptic_on_mental:all@@ & @@tlx_haptic_on_mental:novice@@ & @@tlx_haptic_on_mental:expert@@ \\
+Physical Demand    & @@tlx_haptic_on_physical:all@@ & @@tlx_haptic_on_physical:novice@@ & @@tlx_haptic_on_physical:expert@@ \\
+Temporal Demand    & @@tlx_haptic_on_temporal:all@@ & @@tlx_haptic_on_temporal:novice@@ & @@tlx_haptic_on_temporal:expert@@ \\
+Performance        & @@tlx_haptic_on_performance:all@@ & @@tlx_haptic_on_performance:novice@@ & @@tlx_haptic_on_performance:expert@@ \\
+Effort             & @@tlx_haptic_on_effort:all@@ & @@tlx_haptic_on_effort:novice@@ & @@tlx_haptic_on_effort:expert@@ \\
+Frustration        & @@tlx_haptic_on_frustration:all@@ & @@tlx_haptic_on_frustration:novice@@ & @@tlx_haptic_on_frustration:expert@@ \\
+\addlinespace[2pt]
+\multicolumn{4}{@{}l}{\hspace{1em}\textit{Haptic Off}}\\
+Mental Demand      & @@tlx_haptic_off_mental:all@@ & @@tlx_haptic_off_mental:novice@@ & @@tlx_haptic_off_mental:expert@@ \\
+Physical Demand    & @@tlx_haptic_off_physical:all@@ & @@tlx_haptic_off_physical:novice@@ & @@tlx_haptic_off_physical:expert@@ \\
+Temporal Demand    & @@tlx_haptic_off_temporal:all@@ & @@tlx_haptic_off_temporal:novice@@ & @@tlx_haptic_off_temporal:expert@@ \\
+Performance        & @@tlx_haptic_off_performance:all@@ & @@tlx_haptic_off_performance:novice@@ & @@tlx_haptic_off_performance:expert@@ \\
+Effort             & @@tlx_haptic_off_effort:all@@ & @@tlx_haptic_off_effort:novice@@ & @@tlx_haptic_off_effort:expert@@ \\
+Frustration        & @@tlx_haptic_off_frustration:all@@ & @@tlx_haptic_off_frustration:novice@@ & @@tlx_haptic_off_frustration:expert@@ \\
+\addlinespace[2pt]
+\multicolumn{4}{@{}l}{\hspace{1em}\textit{Joystick}}\\
+Mental Demand      & @@tlx_joystick_mental:all@@ & @@tlx_joystick_mental:novice@@ & @@tlx_joystick_mental:expert@@ \\
+Physical Demand    & @@tlx_joystick_physical:all@@ & @@tlx_joystick_physical:novice@@ & @@tlx_joystick_physical:expert@@ \\
+Temporal Demand    & @@tlx_joystick_temporal:all@@ & @@tlx_joystick_temporal:novice@@ & @@tlx_joystick_temporal:expert@@ \\
+Performance        & @@tlx_joystick_performance:all@@ & @@tlx_joystick_performance:novice@@ & @@tlx_joystick_performance:expert@@ \\
+Effort             & @@tlx_joystick_effort:all@@ & @@tlx_joystick_effort:novice@@ & @@tlx_joystick_effort:expert@@ \\
+Frustration        & @@tlx_joystick_frustration:all@@ & @@tlx_joystick_frustration:novice@@ & @@tlx_joystick_frustration:expert@@ \\
+\addlinespace[6pt]
+
+% ---------------- SUS ----------------
+\multicolumn{4}{@{}l}{\textbf{System Usability Scale (SUS)}}\\[2pt]
+Preferred controller (haptic on = \textbf{H}, haptic off = \textbf{O}, joystick = \textbf{J}) & @@preferred:all@@ & @@preferred:novice@@ & @@preferred:expert@@\\
+SUS score, 0\textendash100 & @@sus_score:all@@ & @@sus_score:novice@@ & @@sus_score:expert@@ \\
+\bottomrule
+\end{tabular}
+\end{table*}

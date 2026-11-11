@@ -1,0 +1,51 @@
+column,file,item_wording,response
+realism_vessel_image,questionnaire_ratings.csv,The system provided a realistic fluoroscopic image of the vascular anatomy.,1-10
+realism_device_image,questionnaire_ratings.csv,The system provided a realistic fluoroscopic image of the catheter and guidewire.,1-10
+realism_phantom,questionnaire_ratings.csv,The endovascular phantom anatomy was realistic,1-10
+intuitive_manual,questionnaire_ratings.csv,The manual navigation of the endovascular devices was intuitive.,1-10
+tlx_manual_mental,questionnaire_ratings.csv,Mental Demand: How mentally demanding was the task,1-10
+tlx_manual_physical,questionnaire_ratings.csv,Physical Demand: How physically demanding was the task?,1-10
+tlx_manual_temporal,questionnaire_ratings.csv,Temporal Demand: How hurried or rushed was the task,1-10
+tlx_manual_performance,questionnaire_ratings.csv,Performance: How successful do you think you were in accomplishing the task ?,1-10
+tlx_manual_effort,questionnaire_ratings.csv,Effort: How hard did you have to work to accomplish your level of performance?,1-10
+tlx_manual_frustration,questionnaire_ratings.csv,"Frustration: How insecure, discouraged, irritated, stressed, and annoyed were you ?",1-10
+intuitive_haptic_on,questionnaire_ratings.csv,The robotic controller (haptics on) was an intuitive method method for controlling the endovascular devices.,1-10
+tlx_haptic_on_mental,questionnaire_ratings.csv,Mental Demand: How mentally demanding was the task,1-10
+tlx_haptic_on_physical,questionnaire_ratings.csv,Physical Demand: How physically demanding was the task?,1-10
+tlx_haptic_on_temporal,questionnaire_ratings.csv,Temporal Demand: How hurried or rushed was the task?,1-10
+tlx_haptic_on_performance,questionnaire_ratings.csv,Performance: How successful do you think you were in accomplishing the task?,1-10
+tlx_haptic_on_effort,questionnaire_ratings.csv,Effort: How hard did you have to work to accomplish your level of performance?,1-10
+tlx_haptic_on_frustration,questionnaire_ratings.csv,"Frustration: How insecure, discouraged, irritated, stressed, and annoyed were you?",1-10
+intuitive_haptic_off,questionnaire_ratings.csv,The robotic controller (haptics off) was an intuitive method method for controlling the endovascular devices.,1-10
+tlx_haptic_off_mental,questionnaire_ratings.csv,Mental Demand: How mentally demanding was the task,1-10
+tlx_haptic_off_physical,questionnaire_ratings.csv,Physical Demand: How physically demanding was the task?,1-10
+tlx_haptic_off_temporal,questionnaire_ratings.csv,Temporal Demand: How hurried or rushed was the task?,1-10
+tlx_haptic_off_performance,questionnaire_ratings.csv,Performance: How successful do you think you were in accomplishing the task?,1-10
+tlx_haptic_off_effort,questionnaire_ratings.csv,Effort: How hard did you have to work to accomplish your level of performance?,1-10
+tlx_haptic_off_frustration,questionnaire_ratings.csv,"Frustration: How insecure, discouraged, irritated, stressed, and annoyed were you?",1-10
+intuitive_joystick,questionnaire_ratings.csv,The joystick controller was an intuitive method for controlling the endovascular devices,1-10
+tlx_joystick_mental,questionnaire_ratings.csv,Mental Demand: How mentally demanding was the task,1-10
+tlx_joystick_physical,questionnaire_ratings.csv,Physical Demand: How physically demanding was the task?,1-10
+tlx_joystick_temporal,questionnaire_ratings.csv,Temporal Demand: How hurried or rushed was the task?,1-10
+tlx_joystick_effort,questionnaire_ratings.csv,Effort: How hard did you have to work to accomplish your level of performance?,1-10
+tlx_joystick_performance,questionnaire_ratings.csv,Performance: How successful do you think you were in accomplishing the task?,1-10
+tlx_joystick_frustration,questionnaire_ratings.csv,"Frustration: How insecure, discouraged, irritated, stressed, and annoyed were you?",1-10
+most_intuitive_robotic_controller,questionnaire_ratings.csv,What was your most intuitive robot controller,single choice
+sus_01,questionnaire_ratings.csv,I think that I would use this system frequently.,1-10
+sus_02,questionnaire_ratings.csv,I found the system unnecessarily complex.,1-10
+sus_03,questionnaire_ratings.csv,I thought the system was easy to use.,1-10
+sus_04,questionnaire_ratings.csv,I think that I would need the support of a technical person to be able to use the system.,1-10
+sus_05,questionnaire_ratings.csv,I found the various functions in the system were well integrated.,1-10
+sus_06,questionnaire_ratings.csv,I thought there was too much inconsistency in the system.,1-10
+sus_07,questionnaire_ratings.csv,I would imagine that most people would learn to use this system very quickly.,1-10
+sus_08,questionnaire_ratings.csv,I found the system very cumbersome to use.,1-10
+sus_09,questionnaire_ratings.csv,I felt very confident using the system.,1-10
+sus_10,questionnaire_ratings.csv,I needed to learn a lot of things before  could get going with this system.,1-10
+training_teaching_tool,questionnaire_ratings.csv,The system would be a good teaching tool for interventional radiology procedures.,1-10
+training_practice_tool,questionnaire_ratings.csv,The system would be a good practise / preparation tool for interventional radiology procedures.,1-10
+comment_realism,questionnaire_comments.csv (question),Any additional comments on this rating,free text
+comment_manual,questionnaire_comments.csv (question),Any comments.,free text
+improve_manual_realism,questionnaire_comments.csv (question),"What can be done to improve the realism of the manual navigation in the endovascular phantom, if any?",free text
+comment_haptic_on,questionnaire_comments.csv (question),Additional comments.,free text
+comment_haptic_off,questionnaire_comments.csv (question),Any comments.,free text
+comment_joystick,questionnaire_comments.csv (question),Any comments,free text

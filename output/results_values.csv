@@ -1,0 +1,936 @@
+key,value,description,script
+time.all.mean,246.8405797,,01_time_models
+time.all.sd,177.044247,,01_time_models
+time.all.n,69,,01_time_models
+time.all.max,480,,01_time_models
+time.Manual.mean,47.66666667,,01_time_models
+time.Manual.sd,28.0084021,,01_time_models
+time.Manual.n,18,,01_time_models
+time.Manual.max,126,,01_time_models
+time.Manual.n_stopped_at_limit,0,navigations stopped at 480 s,01_time_models
+time.Manual.n_not_reaching_CCA,0,,01_time_models
+time.Haptic On.mean,248.7058824,,01_time_models
+time.Haptic On.sd,122.9790453,,01_time_models
+time.Haptic On.n,17,,01_time_models
+time.Haptic On.max,480,,01_time_models
+time.Haptic On.n_stopped_at_limit,1,navigations stopped at 480 s,01_time_models
+time.Haptic On.n_not_reaching_CCA,0,,01_time_models
+time.Haptic Off.mean,314.6666667,,01_time_models
+time.Haptic Off.sd,157.8394568,,01_time_models
+time.Haptic Off.n,18,,01_time_models
+time.Haptic Off.max,480,,01_time_models
+time.Haptic Off.n_stopped_at_limit,6,navigations stopped at 480 s,01_time_models
+time.Haptic Off.n_not_reaching_CCA,2,,01_time_models
+time.Joystick.mean,392.625,,01_time_models
+time.Joystick.sd,145.0548747,,01_time_models
+time.Joystick.n,16,,01_time_models
+time.Joystick.max,480,,01_time_models
+time.Joystick.n_stopped_at_limit,10,navigations stopped at 480 s,01_time_models
+time.Joystick.n_not_reaching_CCA,2,,01_time_models
+time.Novice.mean,250.8965517,,01_time_models
+time.Novice.sd,181.571384,,01_time_models
+time.Novice.n,29,,01_time_models
+time.Novice.max,480,,01_time_models
+time.Expert.mean,243.9,,01_time_models
+time.Expert.sd,175.9593193,,01_time_models
+time.Expert.n,40,,01_time_models
+time.Expert.max,480,,01_time_models
+time.all.n_stopped_at_limit,17,,01_time_models
+time.all.n_not_reaching_CCA,4,,01_time_models
+time.lmm.omnibus.chi2,60.5083405,,01_time_models
+time.lmm.omnibus.df,3,,01_time_models
+time.lmm.omnibus.p,4.577579614e-13,,01_time_models
+time.lmm.repeat.coef_min,-0.7205999303,,01_time_models
+time.lmm.repeat.p,0.08548008939,,01_time_models
+time.lmm.Haptic On_vs_Manual.coef_min,3.313648284,,01_time_models
+time.lmm.Haptic On_vs_Manual.p,1.836408101e-08,,01_time_models
+time.lmm.Haptic Off_vs_Manual.coef_min,4.45,,01_time_models
+time.lmm.Haptic Off_vs_Manual.p,1.580102189e-14,,01_time_models
+time.lmm.Joystick_vs_Manual.coef_min,5.715706765,,01_time_models
+time.lmm.Joystick_vs_Manual.p,1.997766559e-21,,01_time_models
+time.lmm.Manual_vs_Joystick.coef_min,-5.715706765,,01_time_models
+time.lmm.Manual_vs_Joystick.p,1.997766559e-21,,01_time_models
+time.lmm.Haptic On_vs_Joystick.coef_min,-2.402058481,,01_time_models
+time.lmm.Haptic On_vs_Joystick.p,7.507499844e-05,,01_time_models
+time.lmm.Haptic Off_vs_Joystick.coef_min,-1.265706765,,01_time_models
+time.lmm.Haptic Off_vs_Joystick.p,0.03530411998,,01_time_models
+time.lmm.Manual_vs_Haptic On.coef_min,-3.313648284,,01_time_models
+time.lmm.Manual_vs_Haptic On.p,1.836408101e-08,,01_time_models
+time.lmm.Haptic Off_vs_Haptic On.coef_min,1.136351716,,01_time_models
+time.lmm.Haptic Off_vs_Haptic On.p,0.05365841099,,01_time_models
+time.lmm.Joystick_vs_Haptic On.coef_min,2.402058481,,01_time_models
+time.lmm.Joystick_vs_Haptic On.p,7.507499844e-05,,01_time_models
+time.lmm.expert_vs_novice.lr_p,0.7589680144,,01_time_models
+time.lmm.expert_vs_novice.coef_min,-0.2291740857,,01_time_models
+time.lmm.expert_vs_novice.p,0.7581431865,,01_time_models
+time.cox.Haptic On_vs_Joystick.hr,5.373097105,,01_time_models
+time.cox.Haptic On_vs_Joystick.hr_lo,1.832153527,,01_time_models
+time.cox.Haptic On_vs_Joystick.hr_hi,15.75750726,,01_time_models
+time.cox.Haptic On_vs_Joystick.p,0.002191487813,,01_time_models
+time.cox.Haptic Off_vs_Joystick.hr,2.719512288,,01_time_models
+time.cox.Haptic Off_vs_Joystick.hr_lo,0.889759434,,01_time_models
+time.cox.Haptic Off_vs_Joystick.hr_hi,8.312074927,,01_time_models
+time.cox.Haptic Off_vs_Joystick.p,0.07924928705,,01_time_models
+time.cox.repeat.hr,1.774664576,,01_time_models
+time.cox.repeat.p,0.1515161828,,01_time_models
+time.cox.Haptic Off_vs_Haptic On.hr,0.5061349599,,01_time_models
+time.cox.Haptic Off_vs_Haptic On.hr_lo,0.208348877,,01_time_models
+time.cox.Haptic Off_vs_Haptic On.hr_hi,1.229536733,,01_time_models
+time.cox.Haptic Off_vs_Haptic On.p,0.1326664387,,01_time_models
+time.cox.Joystick_vs_Haptic On.hr,0.1861124005,,01_time_models
+time.cox.Joystick_vs_Haptic On.hr_lo,0.06346181434,,01_time_models
+time.cox.Joystick_vs_Haptic On.hr_hi,0.5458057883,,01_time_models
+time.cox.Joystick_vs_Haptic On.p,0.002191487813,,01_time_models
+time.cox.n_events,34,,01_time_models
+time.cox.n,51,,01_time_models
+cath.all.mean,0.4057971014,,02_count_models
+cath.all.sd,0.6927957126,,02_count_models
+cath.all.n,69,,02_count_models
+cath.all.max,2,,02_count_models
+cath.Manual.mean,0.2222222222,,02_count_models
+cath.Manual.sd,0.4277926319,,02_count_models
+cath.Manual.n,18,,02_count_models
+cath.Manual.max,1,,02_count_models
+cath.Haptic On.mean,0.2941176471,,02_count_models
+cath.Haptic On.sd,0.6859943406,,02_count_models
+cath.Haptic On.n,17,,02_count_models
+cath.Haptic On.max,2,,02_count_models
+cath.Haptic Off.mean,0.6111111111,,02_count_models
+cath.Haptic Off.sd,0.9164438232,,02_count_models
+cath.Haptic Off.n,18,,02_count_models
+cath.Haptic Off.max,2,,02_count_models
+cath.Joystick.mean,0.5,,02_count_models
+cath.Joystick.sd,0.632455532,,02_count_models
+cath.Joystick.n,16,,02_count_models
+cath.Joystick.max,2,,02_count_models
+cath.Novice.mean,0.6206896552,,02_count_models
+cath.Novice.sd,0.7752323662,,02_count_models
+cath.Novice.n,29,,02_count_models
+cath.Novice.max,2,,02_count_models
+cath.Expert.mean,0.25,,02_count_models
+cath.Expert.sd,0.5883484054,,02_count_models
+cath.Expert.n,40,,02_count_models
+cath.Expert.max,2,,02_count_models
+cath.gee_md.omnibus.chi2,5.857414062,,02_count_models
+cath.gee_md.omnibus.df,3,,02_count_models
+cath.gee_md.omnibus.p,0.1187572075,,02_count_models
+cath.gee_md.repeat.irr,0.4922514883,,02_count_models
+cath.gee_md.repeat.p,0.04917328673,,02_count_models
+cath.gee_md.Haptic On_vs_Manual.irr,1.326008196,,02_count_models
+cath.gee_md.Haptic On_vs_Manual.p,0.5883954079,,02_count_models
+cath.gee_md.Haptic Off_vs_Manual.irr,2.748390864,,02_count_models
+cath.gee_md.Haptic Off_vs_Manual.p,0.1640392919,,02_count_models
+cath.gee_md.Joystick_vs_Manual.irr,2.349286411,,02_count_models
+cath.gee_md.Joystick_vs_Manual.p,0.03201383156,,02_count_models
+cath.gee_md.Manual_vs_Joystick.irr,0.425661169,,02_count_models
+cath.gee_md.Manual_vs_Joystick.p,0.03201383156,,02_count_models
+cath.gee_md.Haptic On_vs_Joystick.irr,0.564430199,,02_count_models
+cath.gee_md.Haptic On_vs_Joystick.p,0.4239288254,,02_count_models
+cath.gee_md.Haptic Off_vs_Joystick.irr,1.169883268,,02_count_models
+cath.gee_md.Haptic Off_vs_Joystick.p,0.8031151552,,02_count_models
+cath.gee_md.Manual_vs_Haptic On.irr,0.7541431514,,02_count_models
+cath.gee_md.Manual_vs_Haptic On.p,0.5883954079,,02_count_models
+cath.gee_md.Haptic Off_vs_Haptic On.irr,2.072680148,,02_count_models
+cath.gee_md.Haptic Off_vs_Haptic On.p,0.2454766204,,02_count_models
+cath.gee_md.Joystick_vs_Haptic On.irr,1.771698257,,02_count_models
+cath.gee_md.Joystick_vs_Haptic On.p,0.4239288254,,02_count_models
+cath.gee_md.expert_vs_novice.irr,0.3996636295,,02_count_models
+cath.gee_md.expert_vs_novice.p,0.1632772823,,02_count_models
+cath.gee_robust.omnibus.chi2,7.499999414,,02_count_models
+cath.gee_robust.omnibus.df,3,,02_count_models
+cath.gee_robust.omnibus.p,0.05755846703,,02_count_models
+cath.gee_robust.repeat.irr,0.4922514883,,02_count_models
+cath.gee_robust.repeat.p,0.02852534362,,02_count_models
+cath.gee_robust.Haptic On_vs_Manual.irr,1.326008196,,02_count_models
+cath.gee_robust.Haptic On_vs_Manual.p,0.5436504144,,02_count_models
+cath.gee_robust.Haptic Off_vs_Manual.irr,2.748390864,,02_count_models
+cath.gee_robust.Haptic Off_vs_Manual.p,0.1174484323,,02_count_models
+cath.gee_robust.Joystick_vs_Manual.irr,2.349286411,,02_count_models
+cath.gee_robust.Joystick_vs_Manual.p,0.01508444179,,02_count_models
+cath.gee_robust.Manual_vs_Joystick.irr,0.425661169,,02_count_models
+cath.gee_robust.Manual_vs_Joystick.p,0.01508444179,,02_count_models
+cath.gee_robust.Haptic On_vs_Joystick.irr,0.564430199,,02_count_models
+cath.gee_robust.Haptic On_vs_Joystick.p,0.3663250583,,02_count_models
+cath.gee_robust.Haptic Off_vs_Joystick.irr,1.169883268,,02_count_models
+cath.gee_robust.Haptic Off_vs_Joystick.p,0.7776067276,,02_count_models
+cath.gee_robust.Manual_vs_Haptic On.irr,0.7541431514,,02_count_models
+cath.gee_robust.Manual_vs_Haptic On.p,0.5436504144,,02_count_models
+cath.gee_robust.Haptic Off_vs_Haptic On.irr,2.072680148,,02_count_models
+cath.gee_robust.Haptic Off_vs_Haptic On.p,0.1926076317,,02_count_models
+cath.gee_robust.Joystick_vs_Haptic On.irr,1.771698257,,02_count_models
+cath.gee_robust.Joystick_vs_Haptic On.p,0.3663250583,,02_count_models
+cath.gee_robust.expert_vs_novice.irr,0.3996636295,,02_count_models
+cath.gee_robust.expert_vs_novice.p,0.07789383341,,02_count_models
+prolapse.all.mean,0.768115942,,02_count_models
+prolapse.all.sd,1.002129021,,02_count_models
+prolapse.all.n,69,,02_count_models
+prolapse.all.max,4,,02_count_models
+prolapse.Manual.mean,0.1111111111,,02_count_models
+prolapse.Manual.sd,0.3233808334,,02_count_models
+prolapse.Manual.n,18,,02_count_models
+prolapse.Manual.max,1,,02_count_models
+prolapse.Haptic On.mean,0.6470588235,,02_count_models
+prolapse.Haptic On.sd,0.8617697249,,02_count_models
+prolapse.Haptic On.n,17,,02_count_models
+prolapse.Haptic On.max,3,,02_count_models
+prolapse.Haptic Off.mean,0.8333333333,,02_count_models
+prolapse.Haptic Off.sd,1.043185168,,02_count_models
+prolapse.Haptic Off.n,18,,02_count_models
+prolapse.Haptic Off.max,3,,02_count_models
+prolapse.Joystick.mean,1.5625,,02_count_models
+prolapse.Joystick.sd,1.093541647,,02_count_models
+prolapse.Joystick.n,16,,02_count_models
+prolapse.Joystick.max,4,,02_count_models
+prolapse.Novice.mean,0.9655172414,,02_count_models
+prolapse.Novice.sd,1.179671825,,02_count_models
+prolapse.Novice.n,29,,02_count_models
+prolapse.Novice.max,3,,02_count_models
+prolapse.Expert.mean,0.625,,02_count_models
+prolapse.Expert.sd,0.8378084966,,02_count_models
+prolapse.Expert.n,40,,02_count_models
+prolapse.Expert.max,4,,02_count_models
+prolapse.gee_md.omnibus.chi2,12.17781592,,02_count_models
+prolapse.gee_md.omnibus.df,3,,02_count_models
+prolapse.gee_md.omnibus.p,0.006798209313,,02_count_models
+prolapse.gee_md.repeat.irr,0.8511007613,,02_count_models
+prolapse.gee_md.repeat.p,0.4915918822,,02_count_models
+prolapse.gee_md.Haptic On_vs_Manual.irr,5.830662686,,02_count_models
+prolapse.gee_md.Haptic On_vs_Manual.p,0.001824245997,,02_count_models
+prolapse.gee_md.Haptic Off_vs_Manual.irr,7.492758122,,02_count_models
+prolapse.gee_md.Haptic Off_vs_Manual.p,0.008897740201,,02_count_models
+prolapse.gee_md.Joystick_vs_Manual.irr,14.18462918,,02_count_models
+prolapse.gee_md.Joystick_vs_Manual.p,0.0006222513482,,02_count_models
+prolapse.gee_md.Manual_vs_Joystick.irr,0.07049884682,,02_count_models
+prolapse.gee_md.Manual_vs_Joystick.p,0.0006222513482,,02_count_models
+prolapse.gee_md.Haptic On_vs_Joystick.irr,0.4110549956,,02_count_models
+prolapse.gee_md.Haptic On_vs_Joystick.p,0.06377409577,,02_count_models
+prolapse.gee_md.Haptic Off_vs_Joystick.irr,0.5282308071,,02_count_models
+prolapse.gee_md.Haptic Off_vs_Joystick.p,0.2211722945,,02_count_models
+prolapse.gee_md.Manual_vs_Haptic On.irr,0.1715070917,,02_count_models
+prolapse.gee_md.Manual_vs_Haptic On.p,0.001824245997,,02_count_models
+prolapse.gee_md.Haptic Off_vs_Haptic On.irr,1.285061154,,02_count_models
+prolapse.gee_md.Haptic Off_vs_Haptic On.p,0.6956405127,,02_count_models
+prolapse.gee_md.Joystick_vs_Haptic On.irr,2.432764498,,02_count_models
+prolapse.gee_md.Joystick_vs_Haptic On.p,0.06377409577,,02_count_models
+prolapse.gee_md.expert_vs_novice.irr,0.602949632,,02_count_models
+prolapse.gee_md.expert_vs_novice.p,0.08847338961,,02_count_models
+prolapse.gee_robust.omnibus.chi2,15.53018128,,02_count_models
+prolapse.gee_robust.omnibus.df,3,,02_count_models
+prolapse.gee_robust.omnibus.p,0.001415310483,,02_count_models
+prolapse.gee_robust.repeat.irr,0.8511007613,,02_count_models
+prolapse.gee_robust.repeat.p,0.443534919,,02_count_models
+prolapse.gee_robust.Haptic On_vs_Manual.irr,5.830662686,,02_count_models
+prolapse.gee_robust.Haptic On_vs_Manual.p,0.0004155228806,,02_count_models
+prolapse.gee_robust.Haptic Off_vs_Manual.irr,7.492758122,,02_count_models
+prolapse.gee_robust.Haptic Off_vs_Manual.p,0.003250566424,,02_count_models
+prolapse.gee_robust.Joystick_vs_Manual.irr,14.18462918,,02_count_models
+prolapse.gee_robust.Joystick_vs_Manual.p,0.0001135390851,,02_count_models
+prolapse.gee_robust.Manual_vs_Joystick.irr,0.07049884682,,02_count_models
+prolapse.gee_robust.Manual_vs_Joystick.p,0.0001135390851,,02_count_models
+prolapse.gee_robust.Haptic On_vs_Joystick.irr,0.4110549956,,02_count_models
+prolapse.gee_robust.Haptic On_vs_Joystick.p,0.03667372854,,02_count_models
+prolapse.gee_robust.Haptic Off_vs_Joystick.irr,0.5282308071,,02_count_models
+prolapse.gee_robust.Haptic Off_vs_Joystick.p,0.1664609688,,02_count_models
+prolapse.gee_robust.Manual_vs_Haptic On.irr,0.1715070917,,02_count_models
+prolapse.gee_robust.Manual_vs_Haptic On.p,0.0004155228806,,02_count_models
+prolapse.gee_robust.Haptic Off_vs_Haptic On.irr,1.285061154,,02_count_models
+prolapse.gee_robust.Haptic Off_vs_Haptic On.p,0.6605061751,,02_count_models
+prolapse.gee_robust.Joystick_vs_Haptic On.irr,2.432764498,,02_count_models
+prolapse.gee_robust.Joystick_vs_Haptic On.p,0.03667372854,,02_count_models
+prolapse.gee_robust.expert_vs_novice.irr,0.602949632,,02_count_models
+prolapse.gee_robust.expert_vs_novice.p,0.03139927282,,02_count_models
+force.all.mean,5.997946102,,03_force_models
+force.all.sd,9.836788204,,03_force_models
+force.all.n,528,,03_force_models
+force.all.max,58.06553059,,03_force_models
+force.Manual.mean,2.539088235,,03_force_models
+force.Manual.sd,5.716037652,,03_force_models
+force.Manual.n,128,,03_force_models
+force.Manual.max,34.19243446,,03_force_models
+force.Haptic On.mean,7.260367807,,03_force_models
+force.Haptic On.sd,10.23056018,,03_force_models
+force.Haptic On.n,136,,03_force_models
+force.Haptic On.max,53.29091136,,03_force_models
+force.Haptic Off.mean,7.051613194,,03_force_models
+force.Haptic Off.sd,10.82103992,,03_force_models
+force.Haptic Off.n,136,,03_force_models
+force.Haptic Off.max,53.29091136,,03_force_models
+force.Joystick.mean,6.995959622,,03_force_models
+force.Joystick.sd,10.82437619,,03_force_models
+force.Joystick.n,128,,03_force_models
+force.Joystick.max,58.06553059,,03_force_models
+force.Novice.mean,9.845351536,,03_force_models
+force.Novice.sd,12.71452396,,03_force_models
+force.Novice.n,208,,03_force_models
+force.Novice.max,58.06553059,,03_force_models
+force.Expert.mean,3.49713257,,03_force_models
+force.Expert.sd,6.247286663,,03_force_models
+force.Expert.n,320,,03_force_models
+force.Expert.max,38.96705368,,03_force_models
+force.sensor1.mean,3.59581743,,03_force_models
+force.sensor1.sd,4.735096315,,03_force_models
+force.sensor1.n,66,,03_force_models
+force.sensor1.max,17.98692022,,03_force_models
+force.sensor2.mean,16.35645462,,03_force_models
+force.sensor2.sd,17.90663994,,03_force_models
+force.sensor2.n,66,,03_force_models
+force.sensor2.max,58.06553059,,03_force_models
+force.sensor3.mean,7.334421154,,03_force_models
+force.sensor3.sd,8.910534933,,03_force_models
+force.sensor3.n,66,,03_force_models
+force.sensor3.max,28.47455055,,03_force_models
+force.sensor4.mean,2.450631627,,03_force_models
+force.sensor4.sd,3.073702135,,03_force_models
+force.sensor4.n,66,,03_force_models
+force.sensor4.max,13.07410207,,03_force_models
+force.sensor5.mean,8.905553081,,03_force_models
+force.sensor5.sd,10.25070451,,03_force_models
+force.sensor5.n,66,,03_force_models
+force.sensor5.max,31.02407906,,03_force_models
+force.sensor6.mean,7.89440421,,03_force_models
+force.sensor6.sd,6.820023162,,03_force_models
+force.sensor6.n,66,,03_force_models
+force.sensor6.max,24.66543591,,03_force_models
+force.sensor7.mean,1.216926862,,03_force_models
+force.sensor7.sd,1.433532927,,03_force_models
+force.sensor7.n,66,,03_force_models
+force.sensor7.max,4.602437844,,03_force_models
+force.sensor8.mean,0.2293598295,,03_force_models
+force.sensor8.sd,0.5721440215,,03_force_models
+force.sensor8.n,66,,03_force_models
+force.sensor8.max,2.370400474,,03_force_models
+force.n_navigations,66,,03_force_models
+force.lmm.omnibus.chi2,95.20446603,,03_force_models
+force.lmm.omnibus.df,3,,03_force_models
+force.lmm.omnibus.p,1.668681734e-20,,03_force_models
+force.lmm.repeat.coef_mN,-1.476775037,,03_force_models
+force.lmm.repeat.p,6.465756734e-05,,03_force_models
+force.lmm.Haptic On_vs_Manual.coef_mN,4.545488892,,03_force_models
+force.lmm.Haptic On_vs_Manual.p,5.970336462e-18,,03_force_models
+force.lmm.Haptic Off_vs_Manual.coef_mN,4.33673428,,03_force_models
+force.lmm.Haptic Off_vs_Manual.p,1.771241458e-16,,03_force_models
+force.lmm.Joystick_vs_Manual.coef_mN,4.665497791,,03_force_models
+force.lmm.Joystick_vs_Manual.p,5.985636043e-18,,03_force_models
+force.lmm.Manual_vs_Joystick.coef_mN,-4.665497791,,03_force_models
+force.lmm.Manual_vs_Joystick.p,5.985636072e-18,,03_force_models
+force.lmm.Haptic On_vs_Joystick.coef_mN,-0.1200088984,,03_force_models
+force.lmm.Haptic On_vs_Joystick.p,0.8177520244,,03_force_models
+force.lmm.Haptic Off_vs_Joystick.coef_mN,-0.3287635111,,03_force_models
+force.lmm.Haptic Off_vs_Joystick.p,0.5278567015,,03_force_models
+force.lmm.Manual_vs_Haptic On.coef_mN,-4.545488892,,03_force_models
+force.lmm.Manual_vs_Haptic On.p,5.970336489e-18,,03_force_models
+force.lmm.Haptic Off_vs_Haptic On.coef_mN,-0.2087546127,,03_force_models
+force.lmm.Haptic Off_vs_Haptic On.p,0.6828273435,,03_force_models
+force.lmm.Joystick_vs_Haptic On.coef_mN,0.1200088984,,03_force_models
+force.lmm.Joystick_vs_Haptic On.p,0.8177520244,,03_force_models
+force.lmm.expert_vs_novice.coef_mN,-6.474846379,,03_force_models
+force.lmm.expert_vs_novice.p,0.00167592809,,03_force_models
+force.lmm.expert_vs_novice.lr_p,0.002350503754,,03_force_models
+force.lmm.sensor1.expert_vs_novice.coef_mN,-6.678857453,,03_force_models
+force.lmm.sensor1.expert_vs_novice.p,0.000246226538,,03_force_models
+force.lmm.sensor1.expert_vs_novice.p_bonf,0.001969812304,,03_force_models
+force.lmm.sensor2.expert_vs_novice.coef_mN,-22.91744855,,03_force_models
+force.lmm.sensor2.expert_vs_novice.p,0.002707962549,,03_force_models
+force.lmm.sensor2.expert_vs_novice.p_bonf,0.0216637004,,03_force_models
+force.lmm.sensor3.expert_vs_novice.coef_mN,-6.677973197,,03_force_models
+force.lmm.sensor3.expert_vs_novice.p,0.08343787264,,03_force_models
+force.lmm.sensor3.expert_vs_novice.p_bonf,0.6675029811,,03_force_models
+force.lmm.sensor4.expert_vs_novice.coef_mN,-0.5301029308,,03_force_models
+force.lmm.sensor4.expert_vs_novice.p,0.7426784348,,03_force_models
+force.lmm.sensor4.expert_vs_novice.p_bonf,1,,03_force_models
+force.lmm.sensor5.expert_vs_novice.coef_mN,-12.7733004,,03_force_models
+force.lmm.sensor5.expert_vs_novice.p,0.002392985397,,03_force_models
+force.lmm.sensor5.expert_vs_novice.p_bonf,0.01914388318,,03_force_models
+force.lmm.sensor6.expert_vs_novice.coef_mN,-1.06125516,,03_force_models
+force.lmm.sensor6.expert_vs_novice.p,0.8082163642,,03_force_models
+force.lmm.sensor6.expert_vs_novice.p_bonf,1,,03_force_models
+force.lmm.sensor7.expert_vs_novice.coef_mN,-0.9913379147,,03_force_models
+force.lmm.sensor7.expert_vs_novice.p,0.1068846037,,03_force_models
+force.lmm.sensor7.expert_vs_novice.p_bonf,0.85507683,,03_force_models
+force.lmm.sensor8.expert_vs_novice.coef_mN,0.0752491383,,03_force_models
+force.lmm.sensor8.expert_vs_novice.p,0.7915438922,,03_force_models
+force.lmm.sensor8.expert_vs_novice.p_bonf,1,,03_force_models
+force.window.all.mean,5.8092747,,03_force_models
+force.window.all.sd,9.632940182,,03_force_models
+force.window.all.n,528,,03_force_models
+force.window.all.max,58.06553059,,03_force_models
+force.window.Manual.mean,2.449372989,,03_force_models
+force.window.Manual.sd,5.436876982,,03_force_models
+force.window.Manual.n,128,,03_force_models
+force.window.Manual.max,34.19243446,,03_force_models
+force.window.Haptic On.mean,6.777458926,,03_force_models
+force.window.Haptic On.sd,9.637319718,,03_force_models
+force.window.Haptic On.n,136,,03_force_models
+force.window.Haptic On.max,48.51629213,,03_force_models
+force.window.Haptic Off.mean,7.021294672,,03_force_models
+force.window.Haptic Off.sd,10.81982563,,03_force_models
+force.window.Haptic Off.n,136,,03_force_models
+force.window.Haptic Off.max,53.29091136,,03_force_models
+force.window.Joystick.mean,6.852709454,,03_force_models
+force.window.Joystick.sd,10.82928498,,03_force_models
+force.window.Joystick.n,128,,03_force_models
+force.window.Joystick.max,58.06553059,,03_force_models
+force.window.Novice.mean,9.551308533,,03_force_models
+force.window.Novice.sd,12.50639438,,03_force_models
+force.window.Novice.n,208,,03_force_models
+force.window.Novice.max,58.06553059,,03_force_models
+force.window.Expert.mean,3.376952709,,03_force_models
+force.window.Expert.sd,6.061228224,,03_force_models
+force.window.Expert.n,320,,03_force_models
+force.window.Expert.max,38.96705368,,03_force_models
+force.window.omnibus.chi2,90.79643464,,03_force_models
+force.window.omnibus.df,3,,03_force_models
+force.window.omnibus.p,1.47735794e-19,,03_force_models
+force.window.repeat.coef_mN,-1.357614252,,03_force_models
+force.window.repeat.p,0.0001923740698,,03_force_models
+force.window.Haptic On_vs_Manual.coef_mN,4.104151525,,03_force_models
+force.window.Haptic On_vs_Manual.p,2.494692641e-15,,03_force_models
+force.window.Haptic Off_vs_Manual.coef_mN,4.347987271,,03_force_models
+force.window.Haptic Off_vs_Manual.p,5.112855661e-17,,03_force_models
+force.window.Joystick_vs_Manual.coef_mN,4.531988547,,03_force_models
+force.window.Joystick_vs_Manual.p,1.680965045e-17,,03_force_models
+force.window.Manual_vs_Joystick.coef_mN,-4.531988551,,03_force_models
+force.window.Manual_vs_Joystick.p,1.680962483e-17,,03_force_models
+force.window.Haptic On_vs_Joystick.coef_mN,-0.4278370259,,03_force_models
+force.window.Haptic On_vs_Joystick.p,0.4042509056,,03_force_models
+force.window.Haptic Off_vs_Joystick.coef_mN,-0.18400128,,03_force_models
+force.window.Haptic Off_vs_Joystick.p,0.7198164718,,03_force_models
+force.window.Manual_vs_Haptic On.coef_mN,-4.104151525,,03_force_models
+force.window.Manual_vs_Haptic On.p,2.494691056e-15,,03_force_models
+force.window.Haptic Off_vs_Haptic On.coef_mN,0.243835746,,03_force_models
+force.window.Haptic Off_vs_Haptic On.p,0.6279929039,,03_force_models
+force.window.Joystick_vs_Haptic On.coef_mN,0.4278370237,,03_force_models
+force.window.Joystick_vs_Haptic On.p,0.4042509128,,03_force_models
+force.window.expert_vs_novice.coef_mN,-6.285834431,,03_force_models
+force.window.expert_vs_novice.p,0.001762187063,,03_force_models
+force.window.expert_vs_novice.lr_p,0.002457015943,,03_force_models
+force.window.sensor1.expert_vs_novice.coef_mN,-6.242271848,,03_force_models
+force.window.sensor1.expert_vs_novice.p,0.0007398233097,,03_force_models
+force.window.sensor1.expert_vs_novice.p_bonf,0.005918586478,,03_force_models
+force.window.sensor2.expert_vs_novice.coef_mN,-22.16916207,,03_force_models
+force.window.sensor2.expert_vs_novice.p,0.002918306661,,03_force_models
+force.window.sensor2.expert_vs_novice.p_bonf,0.02334645329,,03_force_models
+force.window.sensor3.expert_vs_novice.coef_mN,-6.820857154,,03_force_models
+force.window.sensor3.expert_vs_novice.p,0.08430606201,,03_force_models
+force.window.sensor3.expert_vs_novice.p_bonf,0.6744484961,,03_force_models
+force.window.sensor4.expert_vs_novice.coef_mN,-0.6366150125,,03_force_models
+force.window.sensor4.expert_vs_novice.p,0.6810269282,,03_force_models
+force.window.sensor4.expert_vs_novice.p_bonf,1,,03_force_models
+force.window.sensor5.expert_vs_novice.coef_mN,-12.25824601,,03_force_models
+force.window.sensor5.expert_vs_novice.p,0.00241821378,,03_force_models
+force.window.sensor5.expert_vs_novice.p_bonf,0.01934571024,,03_force_models
+force.window.sensor6.expert_vs_novice.coef_mN,-0.9643143788,,03_force_models
+force.window.sensor6.expert_vs_novice.p,0.8213046394,,03_force_models
+force.window.sensor6.expert_vs_novice.p_bonf,1,,03_force_models
+force.window.sensor7.expert_vs_novice.coef_mN,-1.011765598,,03_force_models
+force.window.sensor7.expert_vs_novice.p,0.1081502745,,03_force_models
+force.window.sensor7.expert_vs_novice.p_bonf,0.8652021963,,03_force_models
+force.window.sensor8.expert_vs_novice.coef_mN,0.05789831786,,03_force_models
+force.window.sensor8.expert_vs_novice.p,0.8312604598,,03_force_models
+force.window.sensor8.expert_vs_novice.p_bonf,1,,03_force_models
+force.covered.n_navigations,63,,03_force_models
+force.covered.omnibus.chi2,94.42951348,,03_force_models
+force.covered.omnibus.df,3,,03_force_models
+force.covered.omnibus.p,2.448577401e-20,,03_force_models
+force.covered.repeat.coef_mN,-1.356835244,,03_force_models
+force.covered.repeat.p,0.0004693446528,,03_force_models
+force.covered.Haptic On_vs_Manual.coef_mN,4.548183814,,03_force_models
+force.covered.Haptic On_vs_Manual.p,2.439870379e-17,,03_force_models
+force.covered.Haptic Off_vs_Manual.coef_mN,4.385161248,,03_force_models
+force.covered.Haptic Off_vs_Manual.p,4.428070456e-16,,03_force_models
+force.covered.Joystick_vs_Manual.coef_mN,4.956930709,,03_force_models
+force.covered.Joystick_vs_Manual.p,7.158595959e-18,,03_force_models
+force.covered.Manual_vs_Joystick.coef_mN,-4.956930708,,03_force_models
+force.covered.Manual_vs_Joystick.p,7.158606178e-18,,03_force_models
+force.covered.Haptic On_vs_Joystick.coef_mN,-0.4087468934,,03_force_models
+force.covered.Haptic On_vs_Joystick.p,0.4587861164,,03_force_models
+force.covered.Haptic Off_vs_Joystick.coef_mN,-0.5717694615,,03_force_models
+force.covered.Haptic Off_vs_Joystick.p,0.3098146058,,03_force_models
+force.covered.Manual_vs_Haptic On.coef_mN,-4.548183814,,03_force_models
+force.covered.Manual_vs_Haptic On.p,2.439873719e-17,,03_force_models
+force.covered.Haptic Off_vs_Haptic On.coef_mN,-0.163022568,,03_force_models
+force.covered.Haptic Off_vs_Haptic On.p,0.7581497774,,03_force_models
+force.covered.Joystick_vs_Haptic On.coef_mN,0.4087468934,,03_force_models
+force.covered.Joystick_vs_Haptic On.p,0.4587861164,,03_force_models
+force.covered.expert_vs_novice.coef_mN,-6.418127737,,03_force_models
+force.covered.expert_vs_novice.p,0.001892269765,,03_force_models
+force.covered.expert_vs_novice.lr_p,0.002617132713,,03_force_models
+force.covered.sensor1.expert_vs_novice.coef_mN,-6.678821862,,03_force_models
+force.covered.sensor1.expert_vs_novice.p,0.0002379627364,,03_force_models
+force.covered.sensor1.expert_vs_novice.p_bonf,0.001903701891,,03_force_models
+force.covered.sensor2.expert_vs_novice.coef_mN,-22.58017818,,03_force_models
+force.covered.sensor2.expert_vs_novice.p,0.003347696785,,03_force_models
+force.covered.sensor2.expert_vs_novice.p_bonf,0.02678157428,,03_force_models
+force.covered.sensor3.expert_vs_novice.coef_mN,-6.680315817,,03_force_models
+force.covered.sensor3.expert_vs_novice.p,0.08815404673,,03_force_models
+force.covered.sensor3.expert_vs_novice.p_bonf,0.7052323738,,03_force_models
+force.covered.sensor4.expert_vs_novice.coef_mN,-0.5189876511,,03_force_models
+force.covered.sensor4.expert_vs_novice.p,0.7543422459,,03_force_models
+force.covered.sensor4.expert_vs_novice.p_bonf,1,,03_force_models
+force.covered.sensor5.expert_vs_novice.coef_mN,-12.52851646,,03_force_models
+force.covered.sensor5.expert_vs_novice.p,0.003165517351,,03_force_models
+force.covered.sensor5.expert_vs_novice.p_bonf,0.02532413881,,03_force_models
+force.covered.sensor6.expert_vs_novice.coef_mN,-1.177602837,,03_force_models
+force.covered.sensor6.expert_vs_novice.p,0.7870833324,,03_force_models
+force.covered.sensor6.expert_vs_novice.p_bonf,1,,03_force_models
+force.covered.sensor7.expert_vs_novice.coef_mN,-0.9895497782,,03_force_models
+force.covered.sensor7.expert_vs_novice.p,0.1115249841,,03_force_models
+force.covered.sensor7.expert_vs_novice.p_bonf,0.8921998729,,03_force_models
+force.covered.sensor8.expert_vs_novice.coef_mN,0.07506548178,,03_force_models
+force.covered.sensor8.expert_vs_novice.p,0.7931103487,,03_force_models
+force.covered.sensor8.expert_vs_novice.p_bonf,1,,03_force_models
+force.r1spec.omnibus.chi2,94.72100822,,03_force_models
+force.r1spec.omnibus.df,3,,03_force_models
+force.r1spec.omnibus.p,2.119688848e-20,,03_force_models
+force.r1spec.Haptic On_vs_Manual.coef_mN,4.614539352,,03_force_models
+force.r1spec.Haptic On_vs_Manual.p,6.5339245e-18,,03_force_models
+force.r1spec.Haptic Off_vs_Manual.coef_mN,4.40578474,,03_force_models
+force.r1spec.Haptic Off_vs_Manual.p,1.830198453e-16,,03_force_models
+force.r1spec.Joystick_vs_Manual.coef_mN,4.712029452,,03_force_models
+force.r1spec.Joystick_vs_Manual.p,9.848179236e-18,,03_force_models
+force.r1spec.Manual_vs_Joystick.coef_mN,-4.712029452,,03_force_models
+force.r1spec.Manual_vs_Joystick.p,9.848179236e-18,,03_force_models
+force.r1spec.Haptic On_vs_Joystick.coef_mN,-0.09749009966,,03_force_models
+force.r1spec.Haptic On_vs_Joystick.p,0.8539477378,,03_force_models
+force.r1spec.Haptic Off_vs_Joystick.coef_mN,-0.3062447123,,03_force_models
+force.r1spec.Haptic Off_vs_Joystick.p,0.5630882048,,03_force_models
+force.r1spec.Manual_vs_Haptic On.coef_mN,-4.614539352,,03_force_models
+force.r1spec.Manual_vs_Haptic On.p,6.5339245e-18,,03_force_models
+force.r1spec.Haptic Off_vs_Haptic On.coef_mN,-0.2087546127,,03_force_models
+force.r1spec.Haptic Off_vs_Haptic On.p,0.6878397673,,03_force_models
+force.r1spec.Joystick_vs_Haptic On.coef_mN,0.09749009966,,03_force_models
+force.r1spec.Joystick_vs_Haptic On.p,0.8539477378,,03_force_models
+force.r1spec.expert_vs_novice.coef_mN,-6.563281959,,03_force_models
+force.r1spec.expert_vs_novice.p,0.001459472259,,03_force_models
+force.r1spec.expert_vs_novice.lr_p,0.002080230698,,03_force_models
+force.r1spec.sensor1.expert_vs_novice.coef_mN,-6.724716223,,03_force_models
+force.r1spec.sensor1.expert_vs_novice.p,0.0001087187085,,03_force_models
+force.r1spec.sensor1.expert_vs_novice.p_bonf,0.0008697496682,,03_force_models
+force.r1spec.sensor2.expert_vs_novice.coef_mN,-23.01282773,,03_force_models
+force.r1spec.sensor2.expert_vs_novice.p,0.002235000212,,03_force_models
+force.r1spec.sensor2.expert_vs_novice.p_bonf,0.01788000169,,03_force_models
+force.r1spec.sensor3.expert_vs_novice.coef_mN,-6.843727155,,03_force_models
+force.r1spec.sensor3.expert_vs_novice.p,0.1025532982,,03_force_models
+force.r1spec.sensor3.expert_vs_novice.p_bonf,0.8204263856,,03_force_models
+force.r1spec.sensor4.expert_vs_novice.coef_mN,-0.5757733355,,03_force_models
+force.r1spec.sensor4.expert_vs_novice.p,0.7179462216,,03_force_models
+force.r1spec.sensor4.expert_vs_novice.p_bonf,1,,03_force_models
+force.r1spec.sensor5.expert_vs_novice.coef_mN,-12.82380691,,03_force_models
+force.r1spec.sensor5.expert_vs_novice.p,0.001740688057,,03_force_models
+force.r1spec.sensor5.expert_vs_novice.p_bonf,0.01392550446,,03_force_models
+force.r1spec.sensor6.expert_vs_novice.coef_mN,-1.166160906,,03_force_models
+force.r1spec.sensor6.expert_vs_novice.p,0.7879523994,,03_force_models
+force.r1spec.sensor6.expert_vs_novice.p_bonf,1,,03_force_models
+force.r1spec.sensor7.expert_vs_novice.coef_mN,-1.017220016,,03_force_models
+force.r1spec.sensor7.expert_vs_novice.p,0.1307287248,,03_force_models
+force.r1spec.sensor7.expert_vs_novice.p_bonf,1,,03_force_models
+force.r1spec.sensor8.expert_vs_novice.coef_mN,0.07270094255,,03_force_models
+force.r1spec.sensor8.expert_vs_novice.p,0.7932069879,,03_force_models
+force.r1spec.sensor8.expert_vs_novice.p_bonf,1,,03_force_models
+q.realism_vessel_image.all.mean,8.444444444,,04_questionnaire_table1
+q.realism_vessel_image.all.sd,1.589898669,,04_questionnaire_table1
+q.realism_vessel_image.all.n,9,,04_questionnaire_table1
+q.realism_vessel_image.novice.mean,7.75,,04_questionnaire_table1
+q.realism_vessel_image.novice.sd,2.061552813,,04_questionnaire_table1
+q.realism_vessel_image.novice.n,4,,04_questionnaire_table1
+q.realism_vessel_image.expert.mean,9,,04_questionnaire_table1
+q.realism_vessel_image.expert.sd,1,,04_questionnaire_table1
+q.realism_vessel_image.expert.n,5,,04_questionnaire_table1
+q.realism_vessel_image.welch_novice_vs_expert.t,-1.112485399,,04_questionnaire_table1
+q.realism_vessel_image.welch_novice_vs_expert.p,0.3265085836,,04_questionnaire_table1
+q.realism_device_image.all.mean,9.555555556,,04_questionnaire_table1
+q.realism_device_image.all.sd,0.7264831573,,04_questionnaire_table1
+q.realism_device_image.all.n,9,,04_questionnaire_table1
+q.realism_device_image.novice.mean,9.25,,04_questionnaire_table1
+q.realism_device_image.novice.sd,0.9574271078,,04_questionnaire_table1
+q.realism_device_image.novice.n,4,,04_questionnaire_table1
+q.realism_device_image.expert.mean,9.8,,04_questionnaire_table1
+q.realism_device_image.expert.sd,0.4472135955,,04_questionnaire_table1
+q.realism_device_image.expert.n,5,,04_questionnaire_table1
+q.realism_device_image.welch_novice_vs_expert.t,-1.060112734,,04_questionnaire_table1
+q.realism_device_image.welch_novice_vs_expert.p,0.3482278811,,04_questionnaire_table1
+q.realism_phantom.all.mean,8.555555556,,04_questionnaire_table1
+q.realism_phantom.all.sd,1.130388331,,04_questionnaire_table1
+q.realism_phantom.all.n,9,,04_questionnaire_table1
+q.realism_phantom.novice.mean,8.5,,04_questionnaire_table1
+q.realism_phantom.novice.sd,1.290994449,,04_questionnaire_table1
+q.realism_phantom.novice.n,4,,04_questionnaire_table1
+q.realism_phantom.expert.mean,8.6,,04_questionnaire_table1
+q.realism_phantom.expert.sd,1.140175425,,04_questionnaire_table1
+q.realism_phantom.expert.n,5,,04_questionnaire_table1
+q.realism_phantom.welch_novice_vs_expert.t,-0.1215661348,,04_questionnaire_table1
+q.realism_phantom.welch_novice_vs_expert.p,0.9071338887,,04_questionnaire_table1
+q.intuitive_manual.all.mean,9.375,,04_questionnaire_table1
+q.intuitive_manual.all.sd,0.7440238091,,04_questionnaire_table1
+q.intuitive_manual.all.n,8,,04_questionnaire_table1
+q.intuitive_manual.novice.mean,9.666666667,,04_questionnaire_table1
+q.intuitive_manual.novice.sd,0.5773502692,,04_questionnaire_table1
+q.intuitive_manual.novice.n,3,,04_questionnaire_table1
+q.intuitive_manual.expert.mean,9.2,,04_questionnaire_table1
+q.intuitive_manual.expert.sd,0.8366600265,,04_questionnaire_table1
+q.intuitive_manual.expert.n,5,,04_questionnaire_table1
+q.intuitive_manual.welch_novice_vs_expert.t,0.9312661473,,04_questionnaire_table1
+q.intuitive_manual.welch_novice_vs_expert.p,0.3894903527,,04_questionnaire_table1
+q.intuitive_haptic_on.all.mean,6.666666667,,04_questionnaire_table1
+q.intuitive_haptic_on.all.sd,2,,04_questionnaire_table1
+q.intuitive_haptic_on.all.n,9,,04_questionnaire_table1
+q.intuitive_haptic_on.novice.mean,6.75,,04_questionnaire_table1
+q.intuitive_haptic_on.novice.sd,2.217355783,,04_questionnaire_table1
+q.intuitive_haptic_on.novice.n,4,,04_questionnaire_table1
+q.intuitive_haptic_on.expert.mean,6.6,,04_questionnaire_table1
+q.intuitive_haptic_on.expert.sd,2.073644135,,04_questionnaire_table1
+q.intuitive_haptic_on.expert.n,5,,04_questionnaire_table1
+q.intuitive_haptic_on.welch_novice_vs_expert.t,0.103777861,,04_questionnaire_table1
+q.intuitive_haptic_on.welch_novice_vs_expert.p,0.9205516158,,04_questionnaire_table1
+q.intuitive_haptic_off.all.mean,6.666666667,,04_questionnaire_table1
+q.intuitive_haptic_off.all.sd,1.5,,04_questionnaire_table1
+q.intuitive_haptic_off.all.n,9,,04_questionnaire_table1
+q.intuitive_haptic_off.novice.mean,7.25,,04_questionnaire_table1
+q.intuitive_haptic_off.novice.sd,2.217355783,,04_questionnaire_table1
+q.intuitive_haptic_off.novice.n,4,,04_questionnaire_table1
+q.intuitive_haptic_off.expert.mean,6.2,,04_questionnaire_table1
+q.intuitive_haptic_off.expert.sd,0.4472135955,,04_questionnaire_table1
+q.intuitive_haptic_off.expert.n,5,,04_questionnaire_table1
+q.intuitive_haptic_off.welch_novice_vs_expert.t,0.9320301692,,04_questionnaire_table1
+q.intuitive_haptic_off.welch_novice_vs_expert.p,0.416226072,,04_questionnaire_table1
+q.intuitive_joystick.all.mean,5.777777778,,04_questionnaire_table1
+q.intuitive_joystick.all.sd,2.108185107,,04_questionnaire_table1
+q.intuitive_joystick.all.n,9,,04_questionnaire_table1
+q.intuitive_joystick.novice.mean,6.5,,04_questionnaire_table1
+q.intuitive_joystick.novice.sd,2.516611478,,04_questionnaire_table1
+q.intuitive_joystick.novice.n,4,,04_questionnaire_table1
+q.intuitive_joystick.expert.mean,5.2,,04_questionnaire_table1
+q.intuitive_joystick.expert.sd,1.788854382,,04_questionnaire_table1
+q.intuitive_joystick.expert.n,5,,04_questionnaire_table1
+q.intuitive_joystick.welch_novice_vs_expert.t,0.8718485763,,04_questionnaire_table1
+q.intuitive_joystick.welch_novice_vs_expert.p,0.4212305309,,04_questionnaire_table1
+q.training_teaching_tool.all.mean,6.222222222,,04_questionnaire_table1
+q.training_teaching_tool.all.sd,3.19287401,,04_questionnaire_table1
+q.training_teaching_tool.all.n,9,,04_questionnaire_table1
+q.training_teaching_tool.novice.mean,6.25,,04_questionnaire_table1
+q.training_teaching_tool.novice.sd,3.304037934,,04_questionnaire_table1
+q.training_teaching_tool.novice.n,4,,04_questionnaire_table1
+q.training_teaching_tool.expert.mean,6.2,,04_questionnaire_table1
+q.training_teaching_tool.expert.sd,3.492849839,,04_questionnaire_table1
+q.training_teaching_tool.expert.n,5,,04_questionnaire_table1
+q.training_teaching_tool.welch_novice_vs_expert.t,0.02199174731,,04_questionnaire_table1
+q.training_teaching_tool.welch_novice_vs_expert.p,0.9830924281,,04_questionnaire_table1
+q.training_practice_tool.all.mean,5.444444444,,04_questionnaire_table1
+q.training_practice_tool.all.sd,2.833333333,,04_questionnaire_table1
+q.training_practice_tool.all.n,9,,04_questionnaire_table1
+q.training_practice_tool.novice.mean,6.25,,04_questionnaire_table1
+q.training_practice_tool.novice.sd,3.304037934,,04_questionnaire_table1
+q.training_practice_tool.novice.n,4,,04_questionnaire_table1
+q.training_practice_tool.expert.mean,4.8,,04_questionnaire_table1
+q.training_practice_tool.expert.sd,2.588435821,,04_questionnaire_table1
+q.training_practice_tool.expert.n,5,,04_questionnaire_table1
+q.training_practice_tool.welch_novice_vs_expert.t,0.718811908,,04_questionnaire_table1
+q.training_practice_tool.welch_novice_vs_expert.p,0.5008971329,,04_questionnaire_table1
+q.tlx_manual_mental.all.mean,2.75,,04_questionnaire_table1
+q.tlx_manual_mental.all.sd,1.832250763,,04_questionnaire_table1
+q.tlx_manual_mental.all.n,8,,04_questionnaire_table1
+q.tlx_manual_mental.novice.mean,4,,04_questionnaire_table1
+q.tlx_manual_mental.novice.sd,2.645751311,,04_questionnaire_table1
+q.tlx_manual_mental.novice.n,3,,04_questionnaire_table1
+q.tlx_manual_mental.expert.mean,2,,04_questionnaire_table1
+q.tlx_manual_mental.expert.sd,0.7071067812,,04_questionnaire_table1
+q.tlx_manual_mental.expert.n,5,,04_questionnaire_table1
+q.tlx_manual_mental.welch_novice_vs_expert.t,1.28212153,,04_questionnaire_table1
+q.tlx_manual_mental.welch_novice_vs_expert.p,0.3195300244,,04_questionnaire_table1
+q.tlx_manual_physical.all.mean,1.875,,04_questionnaire_table1
+q.tlx_manual_physical.all.sd,1.125991626,,04_questionnaire_table1
+q.tlx_manual_physical.all.n,8,,04_questionnaire_table1
+q.tlx_manual_physical.novice.mean,2,,04_questionnaire_table1
+q.tlx_manual_physical.novice.sd,1,,04_questionnaire_table1
+q.tlx_manual_physical.novice.n,3,,04_questionnaire_table1
+q.tlx_manual_physical.expert.mean,1.8,,04_questionnaire_table1
+q.tlx_manual_physical.expert.sd,1.303840481,,04_questionnaire_table1
+q.tlx_manual_physical.expert.n,5,,04_questionnaire_table1
+q.tlx_manual_physical.welch_novice_vs_expert.t,0.2437333391,,04_questionnaire_table1
+q.tlx_manual_physical.welch_novice_vs_expert.p,0.8164806137,,04_questionnaire_table1
+q.tlx_manual_temporal.all.mean,2.625,,04_questionnaire_table1
+q.tlx_manual_temporal.all.sd,2.263846285,,04_questionnaire_table1
+q.tlx_manual_temporal.all.n,8,,04_questionnaire_table1
+q.tlx_manual_temporal.novice.mean,3.333333333,,04_questionnaire_table1
+q.tlx_manual_temporal.novice.sd,3.214550254,,04_questionnaire_table1
+q.tlx_manual_temporal.novice.n,3,,04_questionnaire_table1
+q.tlx_manual_temporal.expert.mean,2.2,,04_questionnaire_table1
+q.tlx_manual_temporal.expert.sd,1.788854382,,04_questionnaire_table1
+q.tlx_manual_temporal.expert.n,5,,04_questionnaire_table1
+q.tlx_manual_temporal.welch_novice_vs_expert.t,0.560778256,,04_questionnaire_table1
+q.tlx_manual_temporal.welch_novice_vs_expert.p,0.6171605284,,04_questionnaire_table1
+q.tlx_manual_performance.all.mean,8.875,,04_questionnaire_table1
+q.tlx_manual_performance.all.sd,1.125991626,,04_questionnaire_table1
+q.tlx_manual_performance.all.n,8,,04_questionnaire_table1
+q.tlx_manual_performance.novice.mean,8,,04_questionnaire_table1
+q.tlx_manual_performance.novice.sd,1,,04_questionnaire_table1
+q.tlx_manual_performance.novice.n,3,,04_questionnaire_table1
+q.tlx_manual_performance.expert.mean,9.4,,04_questionnaire_table1
+q.tlx_manual_performance.expert.sd,0.894427191,,04_questionnaire_table1
+q.tlx_manual_performance.expert.n,5,,04_questionnaire_table1
+q.tlx_manual_performance.welch_novice_vs_expert.t,-1.993231791,,04_questionnaire_table1
+q.tlx_manual_performance.welch_novice_vs_expert.p,0.1183055125,,04_questionnaire_table1
+q.tlx_manual_effort.all.mean,3.125,,04_questionnaire_table1
+q.tlx_manual_effort.all.sd,1.552647509,,04_questionnaire_table1
+q.tlx_manual_effort.all.n,8,,04_questionnaire_table1
+q.tlx_manual_effort.novice.mean,4,,04_questionnaire_table1
+q.tlx_manual_effort.novice.sd,2,,04_questionnaire_table1
+q.tlx_manual_effort.novice.n,3,,04_questionnaire_table1
+q.tlx_manual_effort.expert.mean,2.6,,04_questionnaire_table1
+q.tlx_manual_effort.expert.sd,1.140175425,,04_questionnaire_table1
+q.tlx_manual_effort.expert.n,5,,04_questionnaire_table1
+q.tlx_manual_effort.welch_novice_vs_expert.t,1.109110239,,04_questionnaire_table1
+q.tlx_manual_effort.welch_novice_vs_expert.p,0.3533939688,,04_questionnaire_table1
+q.tlx_manual_frustration.all.mean,2.125,,04_questionnaire_table1
+q.tlx_manual_frustration.all.sd,1.642080562,,04_questionnaire_table1
+q.tlx_manual_frustration.all.n,8,,04_questionnaire_table1
+q.tlx_manual_frustration.novice.mean,3.333333333,,04_questionnaire_table1
+q.tlx_manual_frustration.novice.sd,2.309401077,,04_questionnaire_table1
+q.tlx_manual_frustration.novice.n,3,,04_questionnaire_table1
+q.tlx_manual_frustration.expert.mean,1.4,,04_questionnaire_table1
+q.tlx_manual_frustration.expert.sd,0.5477225575,,04_questionnaire_table1
+q.tlx_manual_frustration.expert.n,5,,04_questionnaire_table1
+q.tlx_manual_frustration.welch_novice_vs_expert.t,1.426133695,,04_questionnaire_table1
+q.tlx_manual_frustration.welch_novice_vs_expert.p,0.2824609073,,04_questionnaire_table1
+q.tlx_haptic_on_mental.all.mean,6.666666667,,04_questionnaire_table1
+q.tlx_haptic_on_mental.all.sd,1.414213562,,04_questionnaire_table1
+q.tlx_haptic_on_mental.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_on_mental.novice.mean,6.75,,04_questionnaire_table1
+q.tlx_haptic_on_mental.novice.sd,1.892969449,,04_questionnaire_table1
+q.tlx_haptic_on_mental.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_on_mental.expert.mean,6.6,,04_questionnaire_table1
+q.tlx_haptic_on_mental.expert.sd,1.140175425,,04_questionnaire_table1
+q.tlx_haptic_on_mental.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_on_mental.welch_novice_vs_expert.t,0.1395223079,,04_questionnaire_table1
+q.tlx_haptic_on_mental.welch_novice_vs_expert.p,0.8948203257,,04_questionnaire_table1
+q.tlx_haptic_on_physical.all.mean,3.333333333,,04_questionnaire_table1
+q.tlx_haptic_on_physical.all.sd,1.58113883,,04_questionnaire_table1
+q.tlx_haptic_on_physical.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_on_physical.novice.mean,3.25,,04_questionnaire_table1
+q.tlx_haptic_on_physical.novice.sd,1.5,,04_questionnaire_table1
+q.tlx_haptic_on_physical.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_on_physical.expert.mean,3.4,,04_questionnaire_table1
+q.tlx_haptic_on_physical.expert.sd,1.816590212,,04_questionnaire_table1
+q.tlx_haptic_on_physical.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_on_physical.welch_novice_vs_expert.t,-0.1356646895,,04_questionnaire_table1
+q.tlx_haptic_on_physical.welch_novice_vs_expert.p,0.8959204186,,04_questionnaire_table1
+q.tlx_haptic_on_temporal.all.mean,5.111111111,,04_questionnaire_table1
+q.tlx_haptic_on_temporal.all.sd,1.900292375,,04_questionnaire_table1
+q.tlx_haptic_on_temporal.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_on_temporal.novice.mean,5.75,,04_questionnaire_table1
+q.tlx_haptic_on_temporal.novice.sd,2.217355783,,04_questionnaire_table1
+q.tlx_haptic_on_temporal.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_on_temporal.expert.mean,4.6,,04_questionnaire_table1
+q.tlx_haptic_on_temporal.expert.sd,1.673320053,,04_questionnaire_table1
+q.tlx_haptic_on_temporal.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_on_temporal.welch_novice_vs_expert.t,0.8597505081,,04_questionnaire_table1
+q.tlx_haptic_on_temporal.welch_novice_vs_expert.p,0.4258063133,,04_questionnaire_table1
+q.tlx_haptic_on_performance.all.mean,6,,04_questionnaire_table1
+q.tlx_haptic_on_performance.all.sd,2.061552813,,04_questionnaire_table1
+q.tlx_haptic_on_performance.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_on_performance.novice.mean,5.75,,04_questionnaire_table1
+q.tlx_haptic_on_performance.novice.sd,1.258305739,,04_questionnaire_table1
+q.tlx_haptic_on_performance.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_on_performance.expert.mean,6.2,,04_questionnaire_table1
+q.tlx_haptic_on_performance.expert.sd,2.683281573,,04_questionnaire_table1
+q.tlx_haptic_on_performance.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_on_performance.welch_novice_vs_expert.t,-0.3321206569,,04_questionnaire_table1
+q.tlx_haptic_on_performance.welch_novice_vs_expert.p,0.7512673042,,04_questionnaire_table1
+q.tlx_haptic_on_effort.all.mean,6.888888889,,04_questionnaire_table1
+q.tlx_haptic_on_effort.all.sd,1.615893286,,04_questionnaire_table1
+q.tlx_haptic_on_effort.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_on_effort.novice.mean,7.25,,04_questionnaire_table1
+q.tlx_haptic_on_effort.novice.sd,1.5,,04_questionnaire_table1
+q.tlx_haptic_on_effort.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_on_effort.expert.mean,6.6,,04_questionnaire_table1
+q.tlx_haptic_on_effort.expert.sd,1.816590212,,04_questionnaire_table1
+q.tlx_haptic_on_effort.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_on_effort.welch_novice_vs_expert.t,0.5878803211,,04_questionnaire_table1
+q.tlx_haptic_on_effort.welch_novice_vs_expert.p,0.5751522247,,04_questionnaire_table1
+q.tlx_haptic_on_frustration.all.mean,5.444444444,,04_questionnaire_table1
+q.tlx_haptic_on_frustration.all.sd,1.943650632,,04_questionnaire_table1
+q.tlx_haptic_on_frustration.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_on_frustration.novice.mean,6.5,,04_questionnaire_table1
+q.tlx_haptic_on_frustration.novice.sd,1.290994449,,04_questionnaire_table1
+q.tlx_haptic_on_frustration.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_on_frustration.expert.mean,4.6,,04_questionnaire_table1
+q.tlx_haptic_on_frustration.expert.sd,2.073644135,,04_questionnaire_table1
+q.tlx_haptic_on_frustration.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_on_frustration.welch_novice_vs_expert.t,1.681569576,,04_questionnaire_table1
+q.tlx_haptic_on_frustration.welch_novice_vs_expert.p,0.1383622229,,04_questionnaire_table1
+q.tlx_haptic_off_mental.all.mean,6.444444444,,04_questionnaire_table1
+q.tlx_haptic_off_mental.all.sd,1.333333333,,04_questionnaire_table1
+q.tlx_haptic_off_mental.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_off_mental.novice.mean,6.75,,04_questionnaire_table1
+q.tlx_haptic_off_mental.novice.sd,1.5,,04_questionnaire_table1
+q.tlx_haptic_off_mental.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_off_mental.expert.mean,6.2,,04_questionnaire_table1
+q.tlx_haptic_off_mental.expert.sd,1.303840481,,04_questionnaire_table1
+q.tlx_haptic_off_mental.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_off_mental.welch_novice_vs_expert.t,0.5789473684,,04_questionnaire_table1
+q.tlx_haptic_off_mental.welch_novice_vs_expert.p,0.5834819031,,04_questionnaire_table1
+q.tlx_haptic_off_physical.all.mean,3.444444444,,04_questionnaire_table1
+q.tlx_haptic_off_physical.all.sd,1.943650632,,04_questionnaire_table1
+q.tlx_haptic_off_physical.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_off_physical.novice.mean,4,,04_questionnaire_table1
+q.tlx_haptic_off_physical.novice.sd,2.449489743,,04_questionnaire_table1
+q.tlx_haptic_off_physical.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_off_physical.expert.mean,3,,04_questionnaire_table1
+q.tlx_haptic_off_physical.expert.sd,1.58113883,,04_questionnaire_table1
+q.tlx_haptic_off_physical.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_off_physical.welch_novice_vs_expert.t,0.7071067812,,04_questionnaire_table1
+q.tlx_haptic_off_physical.welch_novice_vs_expert.p,0.5115543691,,04_questionnaire_table1
+q.tlx_haptic_off_temporal.all.mean,5.444444444,,04_questionnaire_table1
+q.tlx_haptic_off_temporal.all.sd,1.589898669,,04_questionnaire_table1
+q.tlx_haptic_off_temporal.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_off_temporal.novice.mean,6.25,,04_questionnaire_table1
+q.tlx_haptic_off_temporal.novice.sd,1.892969449,,04_questionnaire_table1
+q.tlx_haptic_off_temporal.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_off_temporal.expert.mean,4.8,,04_questionnaire_table1
+q.tlx_haptic_off_temporal.expert.sd,1.095445115,,04_questionnaire_table1
+q.tlx_haptic_off_temporal.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_off_temporal.welch_novice_vs_expert.t,1.360538066,,04_questionnaire_table1
+q.tlx_haptic_off_temporal.welch_novice_vs_expert.p,0.2368254191,,04_questionnaire_table1
+q.tlx_haptic_off_performance.all.mean,6.222222222,,04_questionnaire_table1
+q.tlx_haptic_off_performance.all.sd,1.787300882,,04_questionnaire_table1
+q.tlx_haptic_off_performance.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_off_performance.novice.mean,6.75,,04_questionnaire_table1
+q.tlx_haptic_off_performance.novice.sd,0.9574271078,,04_questionnaire_table1
+q.tlx_haptic_off_performance.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_off_performance.expert.mean,5.8,,04_questionnaire_table1
+q.tlx_haptic_off_performance.expert.sd,2.28035085,,04_questionnaire_table1
+q.tlx_haptic_off_performance.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_off_performance.welch_novice_vs_expert.t,0.8432653912,,04_questionnaire_table1
+q.tlx_haptic_off_performance.welch_novice_vs_expert.p,0.4336441003,,04_questionnaire_table1
+q.tlx_haptic_off_effort.all.mean,6.444444444,,04_questionnaire_table1
+q.tlx_haptic_off_effort.all.sd,1.589898669,,04_questionnaire_table1
+q.tlx_haptic_off_effort.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_off_effort.novice.mean,7.25,,04_questionnaire_table1
+q.tlx_haptic_off_effort.novice.sd,0.9574271078,,04_questionnaire_table1
+q.tlx_haptic_off_effort.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_off_effort.expert.mean,5.8,,04_questionnaire_table1
+q.tlx_haptic_off_effort.expert.sd,1.788854382,,04_questionnaire_table1
+q.tlx_haptic_off_effort.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_off_effort.welch_novice_vs_expert.t,1.555308233,,04_questionnaire_table1
+q.tlx_haptic_off_effort.welch_novice_vs_expert.p,0.168529625,,04_questionnaire_table1
+q.tlx_haptic_off_frustration.all.mean,5.111111111,,04_questionnaire_table1
+q.tlx_haptic_off_frustration.all.sd,2.147349788,,04_questionnaire_table1
+q.tlx_haptic_off_frustration.all.n,9,,04_questionnaire_table1
+q.tlx_haptic_off_frustration.novice.mean,6.75,,04_questionnaire_table1
+q.tlx_haptic_off_frustration.novice.sd,1.707825128,,04_questionnaire_table1
+q.tlx_haptic_off_frustration.novice.n,4,,04_questionnaire_table1
+q.tlx_haptic_off_frustration.expert.mean,3.8,,04_questionnaire_table1
+q.tlx_haptic_off_frustration.expert.sd,1.483239697,,04_questionnaire_table1
+q.tlx_haptic_off_frustration.expert.n,5,,04_questionnaire_table1
+q.tlx_haptic_off_frustration.welch_novice_vs_expert.t,2.728247736,,04_questionnaire_table1
+q.tlx_haptic_off_frustration.welch_novice_vs_expert.p,0.03393177479,,04_questionnaire_table1
+q.tlx_joystick_mental.all.mean,6.666666667,,04_questionnaire_table1
+q.tlx_joystick_mental.all.sd,1.118033989,,04_questionnaire_table1
+q.tlx_joystick_mental.all.n,9,,04_questionnaire_table1
+q.tlx_joystick_mental.novice.mean,6.5,,04_questionnaire_table1
+q.tlx_joystick_mental.novice.sd,1,,04_questionnaire_table1
+q.tlx_joystick_mental.novice.n,4,,04_questionnaire_table1
+q.tlx_joystick_mental.expert.mean,6.8,,04_questionnaire_table1
+q.tlx_joystick_mental.expert.sd,1.303840481,,04_questionnaire_table1
+q.tlx_joystick_mental.expert.n,5,,04_questionnaire_table1
+q.tlx_joystick_mental.welch_novice_vs_expert.t,-0.3905667329,,04_questionnaire_table1
+q.tlx_joystick_mental.welch_novice_vs_expert.p,0.7077322998,,04_questionnaire_table1
+q.tlx_joystick_physical.all.mean,3.111111111,,04_questionnaire_table1
+q.tlx_joystick_physical.all.sd,2.147349788,,04_questionnaire_table1
+q.tlx_joystick_physical.all.n,9,,04_questionnaire_table1
+q.tlx_joystick_physical.novice.mean,3.75,,04_questionnaire_table1
+q.tlx_joystick_physical.novice.sd,2.061552813,,04_questionnaire_table1
+q.tlx_joystick_physical.novice.n,4,,04_questionnaire_table1
+q.tlx_joystick_physical.expert.mean,2.6,,04_questionnaire_table1
+q.tlx_joystick_physical.expert.sd,2.302172887,,04_questionnaire_table1
+q.tlx_joystick_physical.expert.n,5,,04_questionnaire_table1
+q.tlx_joystick_physical.welch_novice_vs_expert.t,0.7893579565,,04_questionnaire_table1
+q.tlx_joystick_physical.welch_novice_vs_expert.p,0.4563327181,,04_questionnaire_table1
+q.tlx_joystick_temporal.all.mean,6.222222222,,04_questionnaire_table1
+q.tlx_joystick_temporal.all.sd,2.773886163,,04_questionnaire_table1
+q.tlx_joystick_temporal.all.n,9,,04_questionnaire_table1
+q.tlx_joystick_temporal.novice.mean,7.5,,04_questionnaire_table1
+q.tlx_joystick_temporal.novice.sd,1.290994449,,04_questionnaire_table1
+q.tlx_joystick_temporal.novice.n,4,,04_questionnaire_table1
+q.tlx_joystick_temporal.expert.mean,5.2,,04_questionnaire_table1
+q.tlx_joystick_temporal.expert.sd,3.346640106,,04_questionnaire_table1
+q.tlx_joystick_temporal.expert.n,5,,04_questionnaire_table1
+q.tlx_joystick_temporal.welch_novice_vs_expert.t,1.411104909,,04_questionnaire_table1
+q.tlx_joystick_temporal.welch_novice_vs_expert.p,0.2133551102,,04_questionnaire_table1
+q.tlx_joystick_performance.all.mean,5.555555556,,04_questionnaire_table1
+q.tlx_joystick_performance.all.sd,2.185812841,,04_questionnaire_table1
+q.tlx_joystick_performance.all.n,9,,04_questionnaire_table1
+q.tlx_joystick_performance.novice.mean,4.5,,04_questionnaire_table1
+q.tlx_joystick_performance.novice.sd,1.732050808,,04_questionnaire_table1
+q.tlx_joystick_performance.novice.n,4,,04_questionnaire_table1
+q.tlx_joystick_performance.expert.mean,6.4,,04_questionnaire_table1
+q.tlx_joystick_performance.expert.sd,2.302172887,,04_questionnaire_table1
+q.tlx_joystick_performance.expert.n,5,,04_questionnaire_table1
+q.tlx_joystick_performance.welch_novice_vs_expert.t,-1.412258878,,04_questionnaire_table1
+q.tlx_joystick_performance.welch_novice_vs_expert.p,0.2007855223,,04_questionnaire_table1
+q.tlx_joystick_effort.all.mean,7.333333333,,04_questionnaire_table1
+q.tlx_joystick_effort.all.sd,1,,04_questionnaire_table1
+q.tlx_joystick_effort.all.n,9,,04_questionnaire_table1
+q.tlx_joystick_effort.novice.mean,7.75,,04_questionnaire_table1
+q.tlx_joystick_effort.novice.sd,0.9574271078,,04_questionnaire_table1
+q.tlx_joystick_effort.novice.n,4,,04_questionnaire_table1
+q.tlx_joystick_effort.expert.mean,7,,04_questionnaire_table1
+q.tlx_joystick_effort.expert.sd,1,,04_questionnaire_table1
+q.tlx_joystick_effort.expert.n,5,,04_questionnaire_table1
+q.tlx_joystick_effort.welch_novice_vs_expert.t,1.144849165,,04_questionnaire_table1
+q.tlx_joystick_effort.welch_novice_vs_expert.p,0.2915371929,,04_questionnaire_table1
+q.tlx_joystick_frustration.all.mean,6.111111111,,04_questionnaire_table1
+q.tlx_joystick_frustration.all.sd,2.02758751,,04_questionnaire_table1
+q.tlx_joystick_frustration.all.n,9,,04_questionnaire_table1
+q.tlx_joystick_frustration.novice.mean,7.75,,04_questionnaire_table1
+q.tlx_joystick_frustration.novice.sd,0.9574271078,,04_questionnaire_table1
+q.tlx_joystick_frustration.novice.n,4,,04_questionnaire_table1
+q.tlx_joystick_frustration.expert.mean,4.8,,04_questionnaire_table1
+q.tlx_joystick_frustration.expert.sd,1.643167673,,04_questionnaire_table1
+q.tlx_joystick_frustration.expert.n,5,,04_questionnaire_table1
+q.tlx_joystick_frustration.welch_novice_vs_expert.t,3.363657659,,04_questionnaire_table1
+q.tlx_joystick_frustration.welch_novice_vs_expert.p,0.01329862469,,04_questionnaire_table1
+q.sus_score.all.mean,68.14814815,,04_questionnaire_table1
+q.sus_score.all.sd,14.71960144,,04_questionnaire_table1
+q.sus_score.all.n,9,,04_questionnaire_table1
+q.sus_score.novice.mean,67.77777778,,04_questionnaire_table1
+q.sus_score.novice.sd,9.643864123,,04_questionnaire_table1
+q.sus_score.novice.n,4,,04_questionnaire_table1
+q.sus_score.expert.mean,68.44444444,,04_questionnaire_table1
+q.sus_score.expert.sd,19.06130461,,04_questionnaire_table1
+q.sus_score.expert.n,5,,04_questionnaire_table1
+q.sus_score.welch_novice_vs_expert.t,-0.06807056777,,04_questionnaire_table1
+q.sus_score.welch_novice_vs_expert.p,0.9478949058,,04_questionnaire_table1
+q.preferred.all.H,2,,04_questionnaire_table1
+q.preferred.all.O,4,,04_questionnaire_table1
+q.preferred.all.J,3,,04_questionnaire_table1
+q.preferred.novice.H,0,,04_questionnaire_table1
+q.preferred.novice.O,3,,04_questionnaire_table1
+q.preferred.novice.J,1,,04_questionnaire_table1
+q.preferred.expert.H,2,,04_questionnaire_table1
+q.preferred.expert.O,1,,04_questionnaire_table1
+q.preferred.expert.J,2,,04_questionnaire_table1
+q.intuitive.device_mimicking_vs_joystick.p,0.3675857526,,04_questionnaire_table1
+q.intuitive.device_mimicking_vs_joystick.t,0.9549048523,,04_questionnaire_table1
+q.tlx_mental.haptic_on_vs_off.p,0.4468133341,,04_questionnaire_table1
+q.tlx_physical.haptic_on_vs_off.p,0.8131183817,,04_questionnaire_table1
+q.tlx_temporal.haptic_on_vs_off.p,0.4713616805,,04_questionnaire_table1
+q.tlx_performance.haptic_on_vs_off.p,0.6453763092,,04_questionnaire_table1
+q.tlx_effort.haptic_on_vs_off.p,0.169020203,,04_questionnaire_table1
+q.tlx_frustration.haptic_on_vs_off.p,0.3465935071,,04_questionnaire_table1
+q.tlx.haptic_on_vs_off.min_p,0.169020203,,04_questionnaire_table1
+q.tlx_performance.device_mimicking.mean,6.111111111,,04_questionnaire_table1
+q.tlx_performance.device_mimicking.sd,1.798919429,,04_questionnaire_table1
+q.tlx_performance.device_mimicking_vs_joystick.p,0.5121034947,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.all.F,1.075630252,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.all.df1,2,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.all.df2,16,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.all.p,0.3645067232,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.novice.F,0.2727272727,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.novice.df1,2,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.novice.df2,6,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.novice.p,0.7702546296,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.expert.F,0.8175182482,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.expert.df1,2,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.expert.df2,8,,04_questionnaire_table1
+q.tlx_effort.rm_anova_robotic.expert.p,0.4752766648,,04_questionnaire_table1
